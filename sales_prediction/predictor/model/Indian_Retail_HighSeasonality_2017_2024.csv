@@ -1,0 +1,2209 @@
+Category,Product Name,Sales,Year,Month,Season,Festival_Flag,YearMonth
+Electronics,Air Conditioner,237,2017,1,Winter,1,2017-01
+Electronics,Air Cooler,186,2017,1,Winter,1,2017-01
+Electronics,Refrigerator,213,2017,1,Winter,1,2017-01
+Electronics,Heater,554,2017,1,Winter,1,2017-01
+Electronics,LED TV,1118,2017,1,Winter,1,2017-01
+Electronics,Smartphone,1342,2017,1,Winter,1,2017-01
+Electronics,Laptop,998,2017,1,Winter,1,2017-01
+Electronics,Tablet,828,2017,1,Winter,1,2017-01
+Home Appliances,Washing Machine,695,2017,1,Winter,1,2017-01
+Home Appliances,Microwave,584,2017,1,Winter,1,2017-01
+Clothing & Fashion,Raincoat,96,2017,1,Winter,1,2017-01
+Clothing & Fashion,Hoodie,525,2017,1,Winter,1,2017-01
+Clothing & Fashion,Sweatshirt,543,2017,1,Winter,1,2017-01
+Clothing & Fashion,Jeans,322,2017,1,Winter,1,2017-01
+Clothing & Fashion,Footwear,272,2017,1,Winter,1,2017-01
+Groceries,Rice,877,2017,1,Winter,1,2017-01
+Groceries,Oil,797,2017,1,Winter,1,2017-01
+Groceries,Sweets,721,2017,1,Winter,1,2017-01
+Groceries,Soft Drinks,250,2017,1,Winter,1,2017-01
+Groceries,Ice Cream,224,2017,1,Winter,1,2017-01
+School & Stationery,Notebooks,242,2017,1,Winter,1,2017-01
+School & Stationery,School Bags,194,2017,1,Winter,1,2017-01
+School & Stationery,Stationery Kits,173,2017,1,Winter,1,2017-01
+Electronics,Air Conditioner,237,2017,2,Normal,0,2017-02
+Electronics,Air Cooler,179,2017,2,Normal,0,2017-02
+Electronics,Refrigerator,214,2017,2,Normal,0,2017-02
+Electronics,Heater,121,2017,2,Normal,0,2017-02
+Electronics,LED TV,450,2017,2,Normal,0,2017-02
+Electronics,Smartphone,543,2017,2,Normal,0,2017-02
+Electronics,Laptop,390,2017,2,Normal,0,2017-02
+Electronics,Tablet,317,2017,2,Normal,0,2017-02
+Home Appliances,Washing Machine,262,2017,2,Normal,0,2017-02
+Home Appliances,Microwave,217,2017,2,Normal,0,2017-02
+Clothing & Fashion,Raincoat,103,2017,2,Normal,0,2017-02
+Clothing & Fashion,Hoodie,136,2017,2,Normal,0,2017-02
+Clothing & Fashion,Sweatshirt,141,2017,2,Normal,0,2017-02
+Clothing & Fashion,Jeans,324,2017,2,Normal,0,2017-02
+Clothing & Fashion,Footwear,270,2017,2,Normal,0,2017-02
+Groceries,Rice,507,2017,2,Normal,0,2017-02
+Groceries,Oil,447,2017,2,Normal,0,2017-02
+Groceries,Sweets,387,2017,2,Normal,0,2017-02
+Groceries,Soft Drinks,251,2017,2,Normal,0,2017-02
+Groceries,Ice Cream,219,2017,2,Normal,0,2017-02
+School & Stationery,Notebooks,247,2017,2,Normal,0,2017-02
+School & Stationery,School Bags,196,2017,2,Normal,0,2017-02
+School & Stationery,Stationery Kits,178,2017,2,Normal,0,2017-02
+Electronics,Air Conditioner,984,2017,3,Summer,0,2017-03
+Electronics,Air Cooler,751,2017,3,Summer,0,2017-03
+Electronics,Refrigerator,878,2017,3,Summer,0,2017-03
+Electronics,Heater,121,2017,3,Summer,0,2017-03
+Electronics,LED TV,466,2017,3,Summer,0,2017-03
+Electronics,Smartphone,551,2017,3,Summer,0,2017-03
+Electronics,Laptop,419,2017,3,Summer,0,2017-03
+Electronics,Tablet,324,2017,3,Summer,0,2017-03
+Home Appliances,Washing Machine,272,2017,3,Summer,0,2017-03
+Home Appliances,Microwave,232,2017,3,Summer,0,2017-03
+Clothing & Fashion,Raincoat,96,2017,3,Summer,0,2017-03
+Clothing & Fashion,Hoodie,128,2017,3,Summer,0,2017-03
+Clothing & Fashion,Sweatshirt,132,2017,3,Summer,0,2017-03
+Clothing & Fashion,Jeans,325,2017,3,Summer,0,2017-03
+Clothing & Fashion,Footwear,499,2017,3,Summer,0,2017-03
+Groceries,Rice,490,2017,3,Summer,0,2017-03
+Groceries,Oil,461,2017,3,Summer,0,2017-03
+Groceries,Sweets,395,2017,3,Summer,0,2017-03
+Groceries,Soft Drinks,1031,2017,3,Summer,0,2017-03
+Groceries,Ice Cream,953,2017,3,Summer,0,2017-03
+School & Stationery,Notebooks,233,2017,3,Summer,0,2017-03
+School & Stationery,School Bags,204,2017,3,Summer,0,2017-03
+School & Stationery,Stationery Kits,170,2017,3,Summer,0,2017-03
+Electronics,Air Conditioner,1038,2017,4,Summer,0,2017-04
+Electronics,Air Cooler,766,2017,4,Summer,0,2017-04
+Electronics,Refrigerator,853,2017,4,Summer,0,2017-04
+Electronics,Heater,120,2017,4,Summer,0,2017-04
+Electronics,LED TV,461,2017,4,Summer,0,2017-04
+Electronics,Smartphone,548,2017,4,Summer,0,2017-04
+Electronics,Laptop,412,2017,4,Summer,0,2017-04
+Electronics,Tablet,321,2017,4,Summer,0,2017-04
+Home Appliances,Washing Machine,260,2017,4,Summer,0,2017-04
+Home Appliances,Microwave,222,2017,4,Summer,0,2017-04
+Clothing & Fashion,Raincoat,96,2017,4,Summer,0,2017-04
+Clothing & Fashion,Hoodie,135,2017,4,Summer,0,2017-04
+Clothing & Fashion,Sweatshirt,139,2017,4,Summer,0,2017-04
+Clothing & Fashion,Jeans,325,2017,4,Summer,0,2017-04
+Clothing & Fashion,Footwear,486,2017,4,Summer,0,2017-04
+Groceries,Rice,492,2017,4,Summer,0,2017-04
+Groceries,Oil,443,2017,4,Summer,0,2017-04
+Groceries,Sweets,407,2017,4,Summer,0,2017-04
+Groceries,Soft Drinks,1061,2017,4,Summer,0,2017-04
+Groceries,Ice Cream,979,2017,4,Summer,0,2017-04
+School & Stationery,Notebooks,239,2017,4,Summer,0,2017-04
+School & Stationery,School Bags,193,2017,4,Summer,0,2017-04
+School & Stationery,Stationery Kits,179,2017,4,Summer,0,2017-04
+Electronics,Air Conditioner,1020,2017,5,Summer,0,2017-05
+Electronics,Air Cooler,753,2017,5,Summer,0,2017-05
+Electronics,Refrigerator,893,2017,5,Summer,0,2017-05
+Electronics,Heater,124,2017,5,Summer,0,2017-05
+Electronics,LED TV,450,2017,5,Summer,0,2017-05
+Electronics,Smartphone,536,2017,5,Summer,0,2017-05
+Electronics,Laptop,389,2017,5,Summer,0,2017-05
+Electronics,Tablet,305,2017,5,Summer,0,2017-05
+Home Appliances,Washing Machine,259,2017,5,Summer,0,2017-05
+Home Appliances,Microwave,227,2017,5,Summer,0,2017-05
+Clothing & Fashion,Raincoat,98,2017,5,Summer,0,2017-05
+Clothing & Fashion,Hoodie,132,2017,5,Summer,0,2017-05
+Clothing & Fashion,Sweatshirt,142,2017,5,Summer,0,2017-05
+Clothing & Fashion,Jeans,323,2017,5,Summer,0,2017-05
+Clothing & Fashion,Footwear,500,2017,5,Summer,0,2017-05
+Groceries,Rice,510,2017,5,Summer,0,2017-05
+Groceries,Oil,440,2017,5,Summer,0,2017-05
+Groceries,Sweets,386,2017,5,Summer,0,2017-05
+Groceries,Soft Drinks,1032,2017,5,Summer,0,2017-05
+Groceries,Ice Cream,924,2017,5,Summer,0,2017-05
+School & Stationery,Notebooks,248,2017,5,Summer,0,2017-05
+School & Stationery,School Bags,204,2017,5,Summer,0,2017-05
+School & Stationery,Stationery Kits,177,2017,5,Summer,0,2017-05
+Electronics,Air Conditioner,1029,2017,6,Summer,0,2017-06
+Electronics,Air Cooler,768,2017,6,Summer,0,2017-06
+Electronics,Refrigerator,853,2017,6,Summer,0,2017-06
+Electronics,Heater,128,2017,6,Summer,0,2017-06
+Electronics,LED TV,451,2017,6,Summer,0,2017-06
+Electronics,Smartphone,553,2017,6,Summer,0,2017-06
+Electronics,Laptop,417,2017,6,Summer,0,2017-06
+Electronics,Tablet,310,2017,6,Summer,0,2017-06
+Home Appliances,Washing Machine,261,2017,6,Summer,0,2017-06
+Home Appliances,Microwave,220,2017,6,Summer,0,2017-06
+Clothing & Fashion,Raincoat,99,2017,6,Summer,0,2017-06
+Clothing & Fashion,Hoodie,135,2017,6,Summer,0,2017-06
+Clothing & Fashion,Sweatshirt,141,2017,6,Summer,0,2017-06
+Clothing & Fashion,Jeans,316,2017,6,Summer,0,2017-06
+Clothing & Fashion,Footwear,504,2017,6,Summer,0,2017-06
+Groceries,Rice,496,2017,6,Summer,0,2017-06
+Groceries,Oil,439,2017,6,Summer,0,2017-06
+Groceries,Sweets,387,2017,6,Summer,0,2017-06
+Groceries,Soft Drinks,1036,2017,6,Summer,0,2017-06
+Groceries,Ice Cream,983,2017,6,Summer,0,2017-06
+School & Stationery,Notebooks,650,2017,6,Summer,0,2017-06
+School & Stationery,School Bags,550,2017,6,Summer,0,2017-06
+School & Stationery,Stationery Kits,491,2017,6,Summer,0,2017-06
+Electronics,Air Conditioner,237,2017,7,Monsoon,0,2017-07
+Electronics,Air Cooler,186,2017,7,Monsoon,0,2017-07
+Electronics,Refrigerator,217,2017,7,Monsoon,0,2017-07
+Electronics,Heater,539,2017,7,Monsoon,0,2017-07
+Electronics,LED TV,449,2017,7,Monsoon,0,2017-07
+Electronics,Smartphone,531,2017,7,Monsoon,0,2017-07
+Electronics,Laptop,398,2017,7,Monsoon,0,2017-07
+Electronics,Tablet,303,2017,7,Monsoon,0,2017-07
+Home Appliances,Washing Machine,272,2017,7,Monsoon,0,2017-07
+Home Appliances,Microwave,225,2017,7,Monsoon,0,2017-07
+Clothing & Fashion,Raincoat,482,2017,7,Monsoon,0,2017-07
+Clothing & Fashion,Hoodie,129,2017,7,Monsoon,0,2017-07
+Clothing & Fashion,Sweatshirt,142,2017,7,Monsoon,0,2017-07
+Clothing & Fashion,Jeans,323,2017,7,Monsoon,0,2017-07
+Clothing & Fashion,Footwear,272,2017,7,Monsoon,0,2017-07
+Groceries,Rice,499,2017,7,Monsoon,0,2017-07
+Groceries,Oil,467,2017,7,Monsoon,0,2017-07
+Groceries,Sweets,391,2017,7,Monsoon,0,2017-07
+Groceries,Soft Drinks,255,2017,7,Monsoon,0,2017-07
+Groceries,Ice Cream,232,2017,7,Monsoon,0,2017-07
+School & Stationery,Notebooks,646,2017,7,Monsoon,0,2017-07
+School & Stationery,School Bags,560,2017,7,Monsoon,0,2017-07
+School & Stationery,Stationery Kits,478,2017,7,Monsoon,0,2017-07
+Electronics,Air Conditioner,242,2017,8,Monsoon,0,2017-08
+Electronics,Air Cooler,181,2017,8,Monsoon,0,2017-08
+Electronics,Refrigerator,210,2017,8,Monsoon,0,2017-08
+Electronics,Heater,531,2017,8,Monsoon,0,2017-08
+Electronics,LED TV,462,2017,8,Monsoon,0,2017-08
+Electronics,Smartphone,532,2017,8,Monsoon,0,2017-08
+Electronics,Laptop,394,2017,8,Monsoon,0,2017-08
+Electronics,Tablet,303,2017,8,Monsoon,0,2017-08
+Home Appliances,Washing Machine,271,2017,8,Monsoon,0,2017-08
+Home Appliances,Microwave,228,2017,8,Monsoon,0,2017-08
+Clothing & Fashion,Raincoat,480,2017,8,Monsoon,0,2017-08
+Clothing & Fashion,Hoodie,132,2017,8,Monsoon,0,2017-08
+Clothing & Fashion,Sweatshirt,134,2017,8,Monsoon,0,2017-08
+Clothing & Fashion,Jeans,333,2017,8,Monsoon,0,2017-08
+Clothing & Fashion,Footwear,272,2017,8,Monsoon,0,2017-08
+Groceries,Rice,507,2017,8,Monsoon,0,2017-08
+Groceries,Oil,445,2017,8,Monsoon,0,2017-08
+Groceries,Sweets,413,2017,8,Monsoon,0,2017-08
+Groceries,Soft Drinks,244,2017,8,Monsoon,0,2017-08
+Groceries,Ice Cream,225,2017,8,Monsoon,0,2017-08
+School & Stationery,Notebooks,232,2017,8,Monsoon,0,2017-08
+School & Stationery,School Bags,206,2017,8,Monsoon,0,2017-08
+School & Stationery,Stationery Kits,181,2017,8,Monsoon,0,2017-08
+Electronics,Air Conditioner,235,2017,9,Monsoon,0,2017-09
+Electronics,Air Cooler,182,2017,9,Monsoon,0,2017-09
+Electronics,Refrigerator,215,2017,9,Monsoon,0,2017-09
+Electronics,Heater,552,2017,9,Monsoon,0,2017-09
+Electronics,LED TV,451,2017,9,Monsoon,0,2017-09
+Electronics,Smartphone,528,2017,9,Monsoon,0,2017-09
+Electronics,Laptop,391,2017,9,Monsoon,0,2017-09
+Electronics,Tablet,325,2017,9,Monsoon,0,2017-09
+Home Appliances,Washing Machine,278,2017,9,Monsoon,0,2017-09
+Home Appliances,Microwave,227,2017,9,Monsoon,0,2017-09
+Clothing & Fashion,Raincoat,493,2017,9,Monsoon,0,2017-09
+Clothing & Fashion,Hoodie,130,2017,9,Monsoon,0,2017-09
+Clothing & Fashion,Sweatshirt,140,2017,9,Monsoon,0,2017-09
+Clothing & Fashion,Jeans,340,2017,9,Monsoon,0,2017-09
+Clothing & Fashion,Footwear,288,2017,9,Monsoon,0,2017-09
+Groceries,Rice,511,2017,9,Monsoon,0,2017-09
+Groceries,Oil,455,2017,9,Monsoon,0,2017-09
+Groceries,Sweets,386,2017,9,Monsoon,0,2017-09
+Groceries,Soft Drinks,245,2017,9,Monsoon,0,2017-09
+Groceries,Ice Cream,235,2017,9,Monsoon,0,2017-09
+School & Stationery,Notebooks,242,2017,9,Monsoon,0,2017-09
+School & Stationery,School Bags,192,2017,9,Monsoon,0,2017-09
+School & Stationery,Stationery Kits,170,2017,9,Monsoon,0,2017-09
+Electronics,Air Conditioner,243,2017,10,Normal,1,2017-10
+Electronics,Air Cooler,172,2017,10,Normal,1,2017-10
+Electronics,Refrigerator,204,2017,10,Normal,1,2017-10
+Electronics,Heater,125,2017,10,Normal,1,2017-10
+Electronics,LED TV,1167,2017,10,Normal,1,2017-10
+Electronics,Smartphone,1396,2017,10,Normal,1,2017-10
+Electronics,Laptop,1012,2017,10,Normal,1,2017-10
+Electronics,Tablet,818,2017,10,Normal,1,2017-10
+Home Appliances,Washing Machine,675,2017,10,Normal,1,2017-10
+Home Appliances,Microwave,566,2017,10,Normal,1,2017-10
+Clothing & Fashion,Raincoat,101,2017,10,Normal,1,2017-10
+Clothing & Fashion,Hoodie,133,2017,10,Normal,1,2017-10
+Clothing & Fashion,Sweatshirt,141,2017,10,Normal,1,2017-10
+Clothing & Fashion,Jeans,334,2017,10,Normal,1,2017-10
+Clothing & Fashion,Footwear,281,2017,10,Normal,1,2017-10
+Groceries,Rice,870,2017,10,Normal,1,2017-10
+Groceries,Oil,801,2017,10,Normal,1,2017-10
+Groceries,Sweets,706,2017,10,Normal,1,2017-10
+Groceries,Soft Drinks,246,2017,10,Normal,1,2017-10
+Groceries,Ice Cream,236,2017,10,Normal,1,2017-10
+School & Stationery,Notebooks,237,2017,10,Normal,1,2017-10
+School & Stationery,School Bags,206,2017,10,Normal,1,2017-10
+School & Stationery,Stationery Kits,177,2017,10,Normal,1,2017-10
+Electronics,Air Conditioner,245,2017,11,Normal,1,2017-11
+Electronics,Air Cooler,180,2017,11,Normal,1,2017-11
+Electronics,Refrigerator,211,2017,11,Normal,1,2017-11
+Electronics,Heater,124,2017,11,Normal,1,2017-11
+Electronics,LED TV,1121,2017,11,Normal,1,2017-11
+Electronics,Smartphone,1404,2017,11,Normal,1,2017-11
+Electronics,Laptop,1016,2017,11,Normal,1,2017-11
+Electronics,Tablet,774,2017,11,Normal,1,2017-11
+Home Appliances,Washing Machine,698,2017,11,Normal,1,2017-11
+Home Appliances,Microwave,560,2017,11,Normal,1,2017-11
+Clothing & Fashion,Raincoat,103,2017,11,Normal,1,2017-11
+Clothing & Fashion,Hoodie,136,2017,11,Normal,1,2017-11
+Clothing & Fashion,Sweatshirt,142,2017,11,Normal,1,2017-11
+Clothing & Fashion,Jeans,326,2017,11,Normal,1,2017-11
+Clothing & Fashion,Footwear,269,2017,11,Normal,1,2017-11
+Groceries,Rice,930,2017,11,Normal,1,2017-11
+Groceries,Oil,805,2017,11,Normal,1,2017-11
+Groceries,Sweets,746,2017,11,Normal,1,2017-11
+Groceries,Soft Drinks,261,2017,11,Normal,1,2017-11
+Groceries,Ice Cream,234,2017,11,Normal,1,2017-11
+School & Stationery,Notebooks,236,2017,11,Normal,1,2017-11
+School & Stationery,School Bags,198,2017,11,Normal,1,2017-11
+School & Stationery,Stationery Kits,180,2017,11,Normal,1,2017-11
+Electronics,Air Conditioner,236,2017,12,Winter,0,2017-12
+Electronics,Air Cooler,175,2017,12,Winter,0,2017-12
+Electronics,Refrigerator,210,2017,12,Winter,0,2017-12
+Electronics,Heater,569,2017,12,Winter,0,2017-12
+Electronics,LED TV,457,2017,12,Winter,0,2017-12
+Electronics,Smartphone,543,2017,12,Winter,0,2017-12
+Electronics,Laptop,391,2017,12,Winter,0,2017-12
+Electronics,Tablet,317,2017,12,Winter,0,2017-12
+Home Appliances,Washing Machine,280,2017,12,Winter,0,2017-12
+Home Appliances,Microwave,218,2017,12,Winter,0,2017-12
+Clothing & Fashion,Raincoat,100,2017,12,Winter,0,2017-12
+Clothing & Fashion,Hoodie,521,2017,12,Winter,0,2017-12
+Clothing & Fashion,Sweatshirt,539,2017,12,Winter,0,2017-12
+Clothing & Fashion,Jeans,335,2017,12,Winter,0,2017-12
+Clothing & Fashion,Footwear,284,2017,12,Winter,0,2017-12
+Groceries,Rice,494,2017,12,Winter,0,2017-12
+Groceries,Oil,442,2017,12,Winter,0,2017-12
+Groceries,Sweets,409,2017,12,Winter,0,2017-12
+Groceries,Soft Drinks,258,2017,12,Winter,0,2017-12
+Groceries,Ice Cream,234,2017,12,Winter,0,2017-12
+School & Stationery,Notebooks,247,2017,12,Winter,0,2017-12
+School & Stationery,School Bags,200,2017,12,Winter,0,2017-12
+School & Stationery,Stationery Kits,176,2017,12,Winter,0,2017-12
+Electronics,Air Conditioner,260,2018,1,Winter,1,2018-01
+Electronics,Air Cooler,193,2018,1,Winter,1,2018-01
+Electronics,Refrigerator,226,2018,1,Winter,1,2018-01
+Electronics,Heater,596,2018,1,Winter,1,2018-01
+Electronics,LED TV,1257,2018,1,Winter,1,2018-01
+Electronics,Smartphone,1443,2018,1,Winter,1,2018-01
+Electronics,Laptop,1086,2018,1,Winter,1,2018-01
+Electronics,Tablet,825,2018,1,Winter,1,2018-01
+Home Appliances,Washing Machine,735,2018,1,Winter,1,2018-01
+Home Appliances,Microwave,586,2018,1,Winter,1,2018-01
+Clothing & Fashion,Raincoat,105,2018,1,Winter,1,2018-01
+Clothing & Fashion,Hoodie,538,2018,1,Winter,1,2018-01
+Clothing & Fashion,Sweatshirt,551,2018,1,Winter,1,2018-01
+Clothing & Fashion,Jeans,352,2018,1,Winter,1,2018-01
+Clothing & Fashion,Footwear,285,2018,1,Winter,1,2018-01
+Groceries,Rice,918,2018,1,Winter,1,2018-01
+Groceries,Oil,880,2018,1,Winter,1,2018-01
+Groceries,Sweets,754,2018,1,Winter,1,2018-01
+Groceries,Soft Drinks,259,2018,1,Winter,1,2018-01
+Groceries,Ice Cream,242,2018,1,Winter,1,2018-01
+School & Stationery,Notebooks,259,2018,1,Winter,1,2018-01
+School & Stationery,School Bags,207,2018,1,Winter,1,2018-01
+School & Stationery,Stationery Kits,188,2018,1,Winter,1,2018-01
+Electronics,Air Conditioner,245,2018,2,Normal,0,2018-02
+Electronics,Air Cooler,183,2018,2,Normal,0,2018-02
+Electronics,Refrigerator,223,2018,2,Normal,0,2018-02
+Electronics,Heater,132,2018,2,Normal,0,2018-02
+Electronics,LED TV,482,2018,2,Normal,0,2018-02
+Electronics,Smartphone,582,2018,2,Normal,0,2018-02
+Electronics,Laptop,445,2018,2,Normal,0,2018-02
+Electronics,Tablet,334,2018,2,Normal,0,2018-02
+Home Appliances,Washing Machine,282,2018,2,Normal,0,2018-02
+Home Appliances,Microwave,244,2018,2,Normal,0,2018-02
+Clothing & Fashion,Raincoat,104,2018,2,Normal,0,2018-02
+Clothing & Fashion,Hoodie,139,2018,2,Normal,0,2018-02
+Clothing & Fashion,Sweatshirt,141,2018,2,Normal,0,2018-02
+Clothing & Fashion,Jeans,336,2018,2,Normal,0,2018-02
+Clothing & Fashion,Footwear,307,2018,2,Normal,0,2018-02
+Groceries,Rice,544,2018,2,Normal,0,2018-02
+Groceries,Oil,484,2018,2,Normal,0,2018-02
+Groceries,Sweets,420,2018,2,Normal,0,2018-02
+Groceries,Soft Drinks,260,2018,2,Normal,0,2018-02
+Groceries,Ice Cream,235,2018,2,Normal,0,2018-02
+School & Stationery,Notebooks,249,2018,2,Normal,0,2018-02
+School & Stationery,School Bags,212,2018,2,Normal,0,2018-02
+School & Stationery,Stationery Kits,189,2018,2,Normal,0,2018-02
+Electronics,Air Conditioner,1073,2018,3,Summer,0,2018-03
+Electronics,Air Cooler,781,2018,3,Summer,0,2018-03
+Electronics,Refrigerator,961,2018,3,Summer,0,2018-03
+Electronics,Heater,135,2018,3,Summer,0,2018-03
+Electronics,LED TV,479,2018,3,Summer,0,2018-03
+Electronics,Smartphone,577,2018,3,Summer,0,2018-03
+Electronics,Laptop,426,2018,3,Summer,0,2018-03
+Electronics,Tablet,327,2018,3,Summer,0,2018-03
+Home Appliances,Washing Machine,282,2018,3,Summer,0,2018-03
+Home Appliances,Microwave,243,2018,3,Summer,0,2018-03
+Clothing & Fashion,Raincoat,101,2018,3,Summer,0,2018-03
+Clothing & Fashion,Hoodie,135,2018,3,Summer,0,2018-03
+Clothing & Fashion,Sweatshirt,140,2018,3,Summer,0,2018-03
+Clothing & Fashion,Jeans,336,2018,3,Summer,0,2018-03
+Clothing & Fashion,Footwear,549,2018,3,Summer,0,2018-03
+Groceries,Rice,538,2018,3,Summer,0,2018-03
+Groceries,Oil,476,2018,3,Summer,0,2018-03
+Groceries,Sweets,410,2018,3,Summer,0,2018-03
+Groceries,Soft Drinks,1112,2018,3,Summer,0,2018-03
+Groceries,Ice Cream,1004,2018,3,Summer,0,2018-03
+School & Stationery,Notebooks,247,2018,3,Summer,0,2018-03
+School & Stationery,School Bags,210,2018,3,Summer,0,2018-03
+School & Stationery,Stationery Kits,185,2018,3,Summer,0,2018-03
+Electronics,Air Conditioner,1069,2018,4,Summer,0,2018-04
+Electronics,Air Cooler,803,2018,4,Summer,0,2018-04
+Electronics,Refrigerator,893,2018,4,Summer,0,2018-04
+Electronics,Heater,131,2018,4,Summer,0,2018-04
+Electronics,LED TV,481,2018,4,Summer,0,2018-04
+Electronics,Smartphone,572,2018,4,Summer,0,2018-04
+Electronics,Laptop,441,2018,4,Summer,0,2018-04
+Electronics,Tablet,338,2018,4,Summer,0,2018-04
+Home Appliances,Washing Machine,278,2018,4,Summer,0,2018-04
+Home Appliances,Microwave,230,2018,4,Summer,0,2018-04
+Clothing & Fashion,Raincoat,107,2018,4,Summer,0,2018-04
+Clothing & Fashion,Hoodie,134,2018,4,Summer,0,2018-04
+Clothing & Fashion,Sweatshirt,147,2018,4,Summer,0,2018-04
+Clothing & Fashion,Jeans,362,2018,4,Summer,0,2018-04
+Clothing & Fashion,Footwear,537,2018,4,Summer,0,2018-04
+Groceries,Rice,525,2018,4,Summer,0,2018-04
+Groceries,Oil,482,2018,4,Summer,0,2018-04
+Groceries,Sweets,422,2018,4,Summer,0,2018-04
+Groceries,Soft Drinks,1117,2018,4,Summer,0,2018-04
+Groceries,Ice Cream,1042,2018,4,Summer,0,2018-04
+School & Stationery,Notebooks,252,2018,4,Summer,0,2018-04
+School & Stationery,School Bags,219,2018,4,Summer,0,2018-04
+School & Stationery,Stationery Kits,192,2018,4,Summer,0,2018-04
+Electronics,Air Conditioner,1034,2018,5,Summer,0,2018-05
+Electronics,Air Cooler,767,2018,5,Summer,0,2018-05
+Electronics,Refrigerator,897,2018,5,Summer,0,2018-05
+Electronics,Heater,127,2018,5,Summer,0,2018-05
+Electronics,LED TV,461,2018,5,Summer,0,2018-05
+Electronics,Smartphone,580,2018,5,Summer,0,2018-05
+Electronics,Laptop,414,2018,5,Summer,0,2018-05
+Electronics,Tablet,329,2018,5,Summer,0,2018-05
+Home Appliances,Washing Machine,294,2018,5,Summer,0,2018-05
+Home Appliances,Microwave,229,2018,5,Summer,0,2018-05
+Clothing & Fashion,Raincoat,108,2018,5,Summer,0,2018-05
+Clothing & Fashion,Hoodie,137,2018,5,Summer,0,2018-05
+Clothing & Fashion,Sweatshirt,141,2018,5,Summer,0,2018-05
+Clothing & Fashion,Jeans,355,2018,5,Summer,0,2018-05
+Clothing & Fashion,Footwear,539,2018,5,Summer,0,2018-05
+Groceries,Rice,546,2018,5,Summer,0,2018-05
+Groceries,Oil,485,2018,5,Summer,0,2018-05
+Groceries,Sweets,434,2018,5,Summer,0,2018-05
+Groceries,Soft Drinks,1093,2018,5,Summer,0,2018-05
+Groceries,Ice Cream,981,2018,5,Summer,0,2018-05
+School & Stationery,Notebooks,259,2018,5,Summer,0,2018-05
+School & Stationery,School Bags,217,2018,5,Summer,0,2018-05
+School & Stationery,Stationery Kits,193,2018,5,Summer,0,2018-05
+Electronics,Air Conditioner,1052,2018,6,Summer,0,2018-06
+Electronics,Air Cooler,786,2018,6,Summer,0,2018-06
+Electronics,Refrigerator,948,2018,6,Summer,0,2018-06
+Electronics,Heater,130,2018,6,Summer,0,2018-06
+Electronics,LED TV,493,2018,6,Summer,0,2018-06
+Electronics,Smartphone,588,2018,6,Summer,0,2018-06
+Electronics,Laptop,426,2018,6,Summer,0,2018-06
+Electronics,Tablet,340,2018,6,Summer,0,2018-06
+Home Appliances,Washing Machine,292,2018,6,Summer,0,2018-06
+Home Appliances,Microwave,230,2018,6,Summer,0,2018-06
+Clothing & Fashion,Raincoat,109,2018,6,Summer,0,2018-06
+Clothing & Fashion,Hoodie,139,2018,6,Summer,0,2018-06
+Clothing & Fashion,Sweatshirt,150,2018,6,Summer,0,2018-06
+Clothing & Fashion,Jeans,344,2018,6,Summer,0,2018-06
+Clothing & Fashion,Footwear,551,2018,6,Summer,0,2018-06
+Groceries,Rice,525,2018,6,Summer,0,2018-06
+Groceries,Oil,458,2018,6,Summer,0,2018-06
+Groceries,Sweets,437,2018,6,Summer,0,2018-06
+Groceries,Soft Drinks,1076,2018,6,Summer,0,2018-06
+Groceries,Ice Cream,992,2018,6,Summer,0,2018-06
+School & Stationery,Notebooks,724,2018,6,Summer,0,2018-06
+School & Stationery,School Bags,604,2018,6,Summer,0,2018-06
+School & Stationery,Stationery Kits,516,2018,6,Summer,0,2018-06
+Electronics,Air Conditioner,257,2018,7,Monsoon,0,2018-07
+Electronics,Air Cooler,190,2018,7,Monsoon,0,2018-07
+Electronics,Refrigerator,218,2018,7,Monsoon,0,2018-07
+Electronics,Heater,575,2018,7,Monsoon,0,2018-07
+Electronics,LED TV,483,2018,7,Monsoon,0,2018-07
+Electronics,Smartphone,583,2018,7,Monsoon,0,2018-07
+Electronics,Laptop,439,2018,7,Monsoon,0,2018-07
+Electronics,Tablet,341,2018,7,Monsoon,0,2018-07
+Home Appliances,Washing Machine,276,2018,7,Monsoon,0,2018-07
+Home Appliances,Microwave,238,2018,7,Monsoon,0,2018-07
+Clothing & Fashion,Raincoat,511,2018,7,Monsoon,0,2018-07
+Clothing & Fashion,Hoodie,140,2018,7,Monsoon,0,2018-07
+Clothing & Fashion,Sweatshirt,145,2018,7,Monsoon,0,2018-07
+Clothing & Fashion,Jeans,360,2018,7,Monsoon,0,2018-07
+Clothing & Fashion,Footwear,293,2018,7,Monsoon,0,2018-07
+Groceries,Rice,513,2018,7,Monsoon,0,2018-07
+Groceries,Oil,463,2018,7,Monsoon,0,2018-07
+Groceries,Sweets,432,2018,7,Monsoon,0,2018-07
+Groceries,Soft Drinks,269,2018,7,Monsoon,0,2018-07
+Groceries,Ice Cream,233,2018,7,Monsoon,0,2018-07
+School & Stationery,Notebooks,676,2018,7,Monsoon,0,2018-07
+School & Stationery,School Bags,592,2018,7,Monsoon,0,2018-07
+School & Stationery,Stationery Kits,495,2018,7,Monsoon,0,2018-07
+Electronics,Air Conditioner,260,2018,8,Monsoon,0,2018-08
+Electronics,Air Cooler,193,2018,8,Monsoon,0,2018-08
+Electronics,Refrigerator,215,2018,8,Monsoon,0,2018-08
+Electronics,Heater,563,2018,8,Monsoon,0,2018-08
+Electronics,LED TV,495,2018,8,Monsoon,0,2018-08
+Electronics,Smartphone,566,2018,8,Monsoon,0,2018-08
+Electronics,Laptop,424,2018,8,Monsoon,0,2018-08
+Electronics,Tablet,342,2018,8,Monsoon,0,2018-08
+Home Appliances,Washing Machine,296,2018,8,Monsoon,0,2018-08
+Home Appliances,Microwave,247,2018,8,Monsoon,0,2018-08
+Clothing & Fashion,Raincoat,540,2018,8,Monsoon,0,2018-08
+Clothing & Fashion,Hoodie,138,2018,8,Monsoon,0,2018-08
+Clothing & Fashion,Sweatshirt,141,2018,8,Monsoon,0,2018-08
+Clothing & Fashion,Jeans,357,2018,8,Monsoon,0,2018-08
+Clothing & Fashion,Footwear,298,2018,8,Monsoon,0,2018-08
+Groceries,Rice,526,2018,8,Monsoon,0,2018-08
+Groceries,Oil,492,2018,8,Monsoon,0,2018-08
+Groceries,Sweets,410,2018,8,Monsoon,0,2018-08
+Groceries,Soft Drinks,266,2018,8,Monsoon,0,2018-08
+Groceries,Ice Cream,232,2018,8,Monsoon,0,2018-08
+School & Stationery,Notebooks,253,2018,8,Monsoon,0,2018-08
+School & Stationery,School Bags,204,2018,8,Monsoon,0,2018-08
+School & Stationery,Stationery Kits,180,2018,8,Monsoon,0,2018-08
+Electronics,Air Conditioner,246,2018,9,Monsoon,0,2018-09
+Electronics,Air Cooler,193,2018,9,Monsoon,0,2018-09
+Electronics,Refrigerator,226,2018,9,Monsoon,0,2018-09
+Electronics,Heater,586,2018,9,Monsoon,0,2018-09
+Electronics,LED TV,494,2018,9,Monsoon,0,2018-09
+Electronics,Smartphone,566,2018,9,Monsoon,0,2018-09
+Electronics,Laptop,421,2018,9,Monsoon,0,2018-09
+Electronics,Tablet,343,2018,9,Monsoon,0,2018-09
+Home Appliances,Washing Machine,279,2018,9,Monsoon,0,2018-09
+Home Appliances,Microwave,247,2018,9,Monsoon,0,2018-09
+Clothing & Fashion,Raincoat,509,2018,9,Monsoon,0,2018-09
+Clothing & Fashion,Hoodie,145,2018,9,Monsoon,0,2018-09
+Clothing & Fashion,Sweatshirt,140,2018,9,Monsoon,0,2018-09
+Clothing & Fashion,Jeans,360,2018,9,Monsoon,0,2018-09
+Clothing & Fashion,Footwear,297,2018,9,Monsoon,0,2018-09
+Groceries,Rice,550,2018,9,Monsoon,0,2018-09
+Groceries,Oil,460,2018,9,Monsoon,0,2018-09
+Groceries,Sweets,425,2018,9,Monsoon,0,2018-09
+Groceries,Soft Drinks,277,2018,9,Monsoon,0,2018-09
+Groceries,Ice Cream,242,2018,9,Monsoon,0,2018-09
+School & Stationery,Notebooks,257,2018,9,Monsoon,0,2018-09
+School & Stationery,School Bags,215,2018,9,Monsoon,0,2018-09
+School & Stationery,Stationery Kits,185,2018,9,Monsoon,0,2018-09
+Electronics,Air Conditioner,256,2018,10,Normal,1,2018-10
+Electronics,Air Cooler,192,2018,10,Normal,1,2018-10
+Electronics,Refrigerator,229,2018,10,Normal,1,2018-10
+Electronics,Heater,127,2018,10,Normal,1,2018-10
+Electronics,LED TV,1197,2018,10,Normal,1,2018-10
+Electronics,Smartphone,1515,2018,10,Normal,1,2018-10
+Electronics,Laptop,1131,2018,10,Normal,1,2018-10
+Electronics,Tablet,850,2018,10,Normal,1,2018-10
+Home Appliances,Washing Machine,738,2018,10,Normal,1,2018-10
+Home Appliances,Microwave,598,2018,10,Normal,1,2018-10
+Clothing & Fashion,Raincoat,103,2018,10,Normal,1,2018-10
+Clothing & Fashion,Hoodie,139,2018,10,Normal,1,2018-10
+Clothing & Fashion,Sweatshirt,144,2018,10,Normal,1,2018-10
+Clothing & Fashion,Jeans,352,2018,10,Normal,1,2018-10
+Clothing & Fashion,Footwear,286,2018,10,Normal,1,2018-10
+Groceries,Rice,990,2018,10,Normal,1,2018-10
+Groceries,Oil,891,2018,10,Normal,1,2018-10
+Groceries,Sweets,775,2018,10,Normal,1,2018-10
+Groceries,Soft Drinks,267,2018,10,Normal,1,2018-10
+Groceries,Ice Cream,237,2018,10,Normal,1,2018-10
+School & Stationery,Notebooks,260,2018,10,Normal,1,2018-10
+School & Stationery,School Bags,215,2018,10,Normal,1,2018-10
+School & Stationery,Stationery Kits,181,2018,10,Normal,1,2018-10
+Electronics,Air Conditioner,262,2018,11,Normal,1,2018-11
+Electronics,Air Cooler,195,2018,11,Normal,1,2018-11
+Electronics,Refrigerator,230,2018,11,Normal,1,2018-11
+Electronics,Heater,134,2018,11,Normal,1,2018-11
+Electronics,LED TV,1230,2018,11,Normal,1,2018-11
+Electronics,Smartphone,1453,2018,11,Normal,1,2018-11
+Electronics,Laptop,1135,2018,11,Normal,1,2018-11
+Electronics,Tablet,878,2018,11,Normal,1,2018-11
+Home Appliances,Washing Machine,704,2018,11,Normal,1,2018-11
+Home Appliances,Microwave,586,2018,11,Normal,1,2018-11
+Clothing & Fashion,Raincoat,104,2018,11,Normal,1,2018-11
+Clothing & Fashion,Hoodie,143,2018,11,Normal,1,2018-11
+Clothing & Fashion,Sweatshirt,151,2018,11,Normal,1,2018-11
+Clothing & Fashion,Jeans,340,2018,11,Normal,1,2018-11
+Clothing & Fashion,Footwear,299,2018,11,Normal,1,2018-11
+Groceries,Rice,944,2018,11,Normal,1,2018-11
+Groceries,Oil,890,2018,11,Normal,1,2018-11
+Groceries,Sweets,784,2018,11,Normal,1,2018-11
+Groceries,Soft Drinks,274,2018,11,Normal,1,2018-11
+Groceries,Ice Cream,241,2018,11,Normal,1,2018-11
+School & Stationery,Notebooks,252,2018,11,Normal,1,2018-11
+School & Stationery,School Bags,208,2018,11,Normal,1,2018-11
+School & Stationery,Stationery Kits,179,2018,11,Normal,1,2018-11
+Electronics,Air Conditioner,261,2018,12,Winter,0,2018-12
+Electronics,Air Cooler,195,2018,12,Winter,0,2018-12
+Electronics,Refrigerator,231,2018,12,Winter,0,2018-12
+Electronics,Heater,606,2018,12,Winter,0,2018-12
+Electronics,LED TV,479,2018,12,Winter,0,2018-12
+Electronics,Smartphone,584,2018,12,Winter,0,2018-12
+Electronics,Laptop,444,2018,12,Winter,0,2018-12
+Electronics,Tablet,343,2018,12,Winter,0,2018-12
+Home Appliances,Washing Machine,280,2018,12,Winter,0,2018-12
+Home Appliances,Microwave,237,2018,12,Winter,0,2018-12
+Clothing & Fashion,Raincoat,102,2018,12,Winter,0,2018-12
+Clothing & Fashion,Hoodie,555,2018,12,Winter,0,2018-12
+Clothing & Fashion,Sweatshirt,565,2018,12,Winter,0,2018-12
+Clothing & Fashion,Jeans,342,2018,12,Winter,0,2018-12
+Clothing & Fashion,Footwear,300,2018,12,Winter,0,2018-12
+Groceries,Rice,535,2018,12,Winter,0,2018-12
+Groceries,Oil,471,2018,12,Winter,0,2018-12
+Groceries,Sweets,410,2018,12,Winter,0,2018-12
+Groceries,Soft Drinks,270,2018,12,Winter,0,2018-12
+Groceries,Ice Cream,242,2018,12,Winter,0,2018-12
+School & Stationery,Notebooks,259,2018,12,Winter,0,2018-12
+School & Stationery,School Bags,212,2018,12,Winter,0,2018-12
+School & Stationery,Stationery Kits,191,2018,12,Winter,0,2018-12
+Electronics,Air Conditioner,269,2019,1,Winter,1,2019-01
+Electronics,Air Cooler,202,2019,1,Winter,1,2019-01
+Electronics,Refrigerator,242,2019,1,Winter,1,2019-01
+Electronics,Heater,611,2019,1,Winter,1,2019-01
+Electronics,LED TV,1250,2019,1,Winter,1,2019-01
+Electronics,Smartphone,1487,2019,1,Winter,1,2019-01
+Electronics,Laptop,1182,2019,1,Winter,1,2019-01
+Electronics,Tablet,910,2019,1,Winter,1,2019-01
+Home Appliances,Washing Machine,785,2019,1,Winter,1,2019-01
+Home Appliances,Microwave,629,2019,1,Winter,1,2019-01
+Clothing & Fashion,Raincoat,108,2019,1,Winter,1,2019-01
+Clothing & Fashion,Hoodie,544,2019,1,Winter,1,2019-01
+Clothing & Fashion,Sweatshirt,585,2019,1,Winter,1,2019-01
+Clothing & Fashion,Jeans,372,2019,1,Winter,1,2019-01
+Clothing & Fashion,Footwear,310,2019,1,Winter,1,2019-01
+Groceries,Rice,1002,2019,1,Winter,1,2019-01
+Groceries,Oil,936,2019,1,Winter,1,2019-01
+Groceries,Sweets,796,2019,1,Winter,1,2019-01
+Groceries,Soft Drinks,282,2019,1,Winter,1,2019-01
+Groceries,Ice Cream,261,2019,1,Winter,1,2019-01
+School & Stationery,Notebooks,266,2019,1,Winter,1,2019-01
+School & Stationery,School Bags,226,2019,1,Winter,1,2019-01
+School & Stationery,Stationery Kits,202,2019,1,Winter,1,2019-01
+Electronics,Air Conditioner,278,2019,2,Normal,0,2019-02
+Electronics,Air Cooler,195,2019,2,Normal,0,2019-02
+Electronics,Refrigerator,243,2019,2,Normal,0,2019-02
+Electronics,Heater,139,2019,2,Normal,0,2019-02
+Electronics,LED TV,494,2019,2,Normal,0,2019-02
+Electronics,Smartphone,602,2019,2,Normal,0,2019-02
+Electronics,Laptop,471,2019,2,Normal,0,2019-02
+Electronics,Tablet,352,2019,2,Normal,0,2019-02
+Home Appliances,Washing Machine,298,2019,2,Normal,0,2019-02
+Home Appliances,Microwave,254,2019,2,Normal,0,2019-02
+Clothing & Fashion,Raincoat,109,2019,2,Normal,0,2019-02
+Clothing & Fashion,Hoodie,142,2019,2,Normal,0,2019-02
+Clothing & Fashion,Sweatshirt,149,2019,2,Normal,0,2019-02
+Clothing & Fashion,Jeans,358,2019,2,Normal,0,2019-02
+Clothing & Fashion,Footwear,304,2019,2,Normal,0,2019-02
+Groceries,Rice,543,2019,2,Normal,0,2019-02
+Groceries,Oil,509,2019,2,Normal,0,2019-02
+Groceries,Sweets,436,2019,2,Normal,0,2019-02
+Groceries,Soft Drinks,278,2019,2,Normal,0,2019-02
+Groceries,Ice Cream,263,2019,2,Normal,0,2019-02
+School & Stationery,Notebooks,268,2019,2,Normal,0,2019-02
+School & Stationery,School Bags,227,2019,2,Normal,0,2019-02
+School & Stationery,Stationery Kits,191,2019,2,Normal,0,2019-02
+Electronics,Air Conditioner,1092,2019,3,Summer,0,2019-03
+Electronics,Air Cooler,809,2019,3,Summer,0,2019-03
+Electronics,Refrigerator,954,2019,3,Summer,0,2019-03
+Electronics,Heater,137,2019,3,Summer,0,2019-03
+Electronics,LED TV,490,2019,3,Summer,0,2019-03
+Electronics,Smartphone,584,2019,3,Summer,0,2019-03
+Electronics,Laptop,439,2019,3,Summer,0,2019-03
+Electronics,Tablet,351,2019,3,Summer,0,2019-03
+Home Appliances,Washing Machine,295,2019,3,Summer,0,2019-03
+Home Appliances,Microwave,249,2019,3,Summer,0,2019-03
+Clothing & Fashion,Raincoat,112,2019,3,Summer,0,2019-03
+Clothing & Fashion,Hoodie,150,2019,3,Summer,0,2019-03
+Clothing & Fashion,Sweatshirt,148,2019,3,Summer,0,2019-03
+Clothing & Fashion,Jeans,378,2019,3,Summer,0,2019-03
+Clothing & Fashion,Footwear,570,2019,3,Summer,0,2019-03
+Groceries,Rice,541,2019,3,Summer,0,2019-03
+Groceries,Oil,519,2019,3,Summer,0,2019-03
+Groceries,Sweets,463,2019,3,Summer,0,2019-03
+Groceries,Soft Drinks,1134,2019,3,Summer,0,2019-03
+Groceries,Ice Cream,1045,2019,3,Summer,0,2019-03
+School & Stationery,Notebooks,275,2019,3,Summer,0,2019-03
+School & Stationery,School Bags,228,2019,3,Summer,0,2019-03
+School & Stationery,Stationery Kits,192,2019,3,Summer,0,2019-03
+Electronics,Air Conditioner,1093,2019,4,Summer,0,2019-04
+Electronics,Air Cooler,831,2019,4,Summer,0,2019-04
+Electronics,Refrigerator,978,2019,4,Summer,0,2019-04
+Electronics,Heater,141,2019,4,Summer,0,2019-04
+Electronics,LED TV,498,2019,4,Summer,0,2019-04
+Electronics,Smartphone,602,2019,4,Summer,0,2019-04
+Electronics,Laptop,462,2019,4,Summer,0,2019-04
+Electronics,Tablet,339,2019,4,Summer,0,2019-04
+Home Appliances,Washing Machine,296,2019,4,Summer,0,2019-04
+Home Appliances,Microwave,256,2019,4,Summer,0,2019-04
+Clothing & Fashion,Raincoat,115,2019,4,Summer,0,2019-04
+Clothing & Fashion,Hoodie,147,2019,4,Summer,0,2019-04
+Clothing & Fashion,Sweatshirt,154,2019,4,Summer,0,2019-04
+Clothing & Fashion,Jeans,357,2019,4,Summer,0,2019-04
+Clothing & Fashion,Footwear,562,2019,4,Summer,0,2019-04
+Groceries,Rice,561,2019,4,Summer,0,2019-04
+Groceries,Oil,493,2019,4,Summer,0,2019-04
+Groceries,Sweets,439,2019,4,Summer,0,2019-04
+Groceries,Soft Drinks,1164,2019,4,Summer,0,2019-04
+Groceries,Ice Cream,1023,2019,4,Summer,0,2019-04
+School & Stationery,Notebooks,264,2019,4,Summer,0,2019-04
+School & Stationery,School Bags,218,2019,4,Summer,0,2019-04
+School & Stationery,Stationery Kits,194,2019,4,Summer,0,2019-04
+Electronics,Air Conditioner,1085,2019,5,Summer,0,2019-05
+Electronics,Air Cooler,866,2019,5,Summer,0,2019-05
+Electronics,Refrigerator,987,2019,5,Summer,0,2019-05
+Electronics,Heater,142,2019,5,Summer,0,2019-05
+Electronics,LED TV,515,2019,5,Summer,0,2019-05
+Electronics,Smartphone,604,2019,5,Summer,0,2019-05
+Electronics,Laptop,438,2019,5,Summer,0,2019-05
+Electronics,Tablet,353,2019,5,Summer,0,2019-05
+Home Appliances,Washing Machine,304,2019,5,Summer,0,2019-05
+Home Appliances,Microwave,256,2019,5,Summer,0,2019-05
+Clothing & Fashion,Raincoat,111,2019,5,Summer,0,2019-05
+Clothing & Fashion,Hoodie,143,2019,5,Summer,0,2019-05
+Clothing & Fashion,Sweatshirt,151,2019,5,Summer,0,2019-05
+Clothing & Fashion,Jeans,365,2019,5,Summer,0,2019-05
+Clothing & Fashion,Footwear,571,2019,5,Summer,0,2019-05
+Groceries,Rice,563,2019,5,Summer,0,2019-05
+Groceries,Oil,498,2019,5,Summer,0,2019-05
+Groceries,Sweets,465,2019,5,Summer,0,2019-05
+Groceries,Soft Drinks,1185,2019,5,Summer,0,2019-05
+Groceries,Ice Cream,1041,2019,5,Summer,0,2019-05
+School & Stationery,Notebooks,260,2019,5,Summer,0,2019-05
+School & Stationery,School Bags,217,2019,5,Summer,0,2019-05
+School & Stationery,Stationery Kits,193,2019,5,Summer,0,2019-05
+Electronics,Air Conditioner,1089,2019,6,Summer,0,2019-06
+Electronics,Air Cooler,818,2019,6,Summer,0,2019-06
+Electronics,Refrigerator,963,2019,6,Summer,0,2019-06
+Electronics,Heater,136,2019,6,Summer,0,2019-06
+Electronics,LED TV,519,2019,6,Summer,0,2019-06
+Electronics,Smartphone,584,2019,6,Summer,0,2019-06
+Electronics,Laptop,454,2019,6,Summer,0,2019-06
+Electronics,Tablet,350,2019,6,Summer,0,2019-06
+Home Appliances,Washing Machine,314,2019,6,Summer,0,2019-06
+Home Appliances,Microwave,244,2019,6,Summer,0,2019-06
+Clothing & Fashion,Raincoat,111,2019,6,Summer,0,2019-06
+Clothing & Fashion,Hoodie,153,2019,6,Summer,0,2019-06
+Clothing & Fashion,Sweatshirt,159,2019,6,Summer,0,2019-06
+Clothing & Fashion,Jeans,378,2019,6,Summer,0,2019-06
+Clothing & Fashion,Footwear,553,2019,6,Summer,0,2019-06
+Groceries,Rice,545,2019,6,Summer,0,2019-06
+Groceries,Oil,510,2019,6,Summer,0,2019-06
+Groceries,Sweets,463,2019,6,Summer,0,2019-06
+Groceries,Soft Drinks,1181,2019,6,Summer,0,2019-06
+Groceries,Ice Cream,1070,2019,6,Summer,0,2019-06
+School & Stationery,Notebooks,726,2019,6,Summer,0,2019-06
+School & Stationery,School Bags,629,2019,6,Summer,0,2019-06
+School & Stationery,Stationery Kits,528,2019,6,Summer,0,2019-06
+Electronics,Air Conditioner,265,2019,7,Monsoon,0,2019-07
+Electronics,Air Cooler,200,2019,7,Monsoon,0,2019-07
+Electronics,Refrigerator,235,2019,7,Monsoon,0,2019-07
+Electronics,Heater,603,2019,7,Monsoon,0,2019-07
+Electronics,LED TV,488,2019,7,Monsoon,0,2019-07
+Electronics,Smartphone,610,2019,7,Monsoon,0,2019-07
+Electronics,Laptop,445,2019,7,Monsoon,0,2019-07
+Electronics,Tablet,355,2019,7,Monsoon,0,2019-07
+Home Appliances,Washing Machine,294,2019,7,Monsoon,0,2019-07
+Home Appliances,Microwave,251,2019,7,Monsoon,0,2019-07
+Clothing & Fashion,Raincoat,561,2019,7,Monsoon,0,2019-07
+Clothing & Fashion,Hoodie,142,2019,7,Monsoon,0,2019-07
+Clothing & Fashion,Sweatshirt,152,2019,7,Monsoon,0,2019-07
+Clothing & Fashion,Jeans,358,2019,7,Monsoon,0,2019-07
+Clothing & Fashion,Footwear,302,2019,7,Monsoon,0,2019-07
+Groceries,Rice,581,2019,7,Monsoon,0,2019-07
+Groceries,Oil,496,2019,7,Monsoon,0,2019-07
+Groceries,Sweets,459,2019,7,Monsoon,0,2019-07
+Groceries,Soft Drinks,276,2019,7,Monsoon,0,2019-07
+Groceries,Ice Cream,259,2019,7,Monsoon,0,2019-07
+School & Stationery,Notebooks,754,2019,7,Monsoon,0,2019-07
+School & Stationery,School Bags,620,2019,7,Monsoon,0,2019-07
+School & Stationery,Stationery Kits,540,2019,7,Monsoon,0,2019-07
+Electronics,Air Conditioner,266,2019,8,Monsoon,0,2019-08
+Electronics,Air Cooler,199,2019,8,Monsoon,0,2019-08
+Electronics,Refrigerator,243,2019,8,Monsoon,0,2019-08
+Electronics,Heater,632,2019,8,Monsoon,0,2019-08
+Electronics,LED TV,522,2019,8,Monsoon,0,2019-08
+Electronics,Smartphone,586,2019,8,Monsoon,0,2019-08
+Electronics,Laptop,461,2019,8,Monsoon,0,2019-08
+Electronics,Tablet,365,2019,8,Monsoon,0,2019-08
+Home Appliances,Washing Machine,294,2019,8,Monsoon,0,2019-08
+Home Appliances,Microwave,243,2019,8,Monsoon,0,2019-08
+Clothing & Fashion,Raincoat,570,2019,8,Monsoon,0,2019-08
+Clothing & Fashion,Hoodie,148,2019,8,Monsoon,0,2019-08
+Clothing & Fashion,Sweatshirt,158,2019,8,Monsoon,0,2019-08
+Clothing & Fashion,Jeans,358,2019,8,Monsoon,0,2019-08
+Clothing & Fashion,Footwear,321,2019,8,Monsoon,0,2019-08
+Groceries,Rice,546,2019,8,Monsoon,0,2019-08
+Groceries,Oil,490,2019,8,Monsoon,0,2019-08
+Groceries,Sweets,435,2019,8,Monsoon,0,2019-08
+Groceries,Soft Drinks,289,2019,8,Monsoon,0,2019-08
+Groceries,Ice Cream,258,2019,8,Monsoon,0,2019-08
+School & Stationery,Notebooks,269,2019,8,Monsoon,0,2019-08
+School & Stationery,School Bags,221,2019,8,Monsoon,0,2019-08
+School & Stationery,Stationery Kits,203,2019,8,Monsoon,0,2019-08
+Electronics,Air Conditioner,266,2019,9,Monsoon,0,2019-09
+Electronics,Air Cooler,206,2019,9,Monsoon,0,2019-09
+Electronics,Refrigerator,234,2019,9,Monsoon,0,2019-09
+Electronics,Heater,609,2019,9,Monsoon,0,2019-09
+Electronics,LED TV,502,2019,9,Monsoon,0,2019-09
+Electronics,Smartphone,595,2019,9,Monsoon,0,2019-09
+Electronics,Laptop,462,2019,9,Monsoon,0,2019-09
+Electronics,Tablet,352,2019,9,Monsoon,0,2019-09
+Home Appliances,Washing Machine,295,2019,9,Monsoon,0,2019-09
+Home Appliances,Microwave,260,2019,9,Monsoon,0,2019-09
+Clothing & Fashion,Raincoat,554,2019,9,Monsoon,0,2019-09
+Clothing & Fashion,Hoodie,148,2019,9,Monsoon,0,2019-09
+Clothing & Fashion,Sweatshirt,159,2019,9,Monsoon,0,2019-09
+Clothing & Fashion,Jeans,373,2019,9,Monsoon,0,2019-09
+Clothing & Fashion,Footwear,303,2019,9,Monsoon,0,2019-09
+Groceries,Rice,579,2019,9,Monsoon,0,2019-09
+Groceries,Oil,509,2019,9,Monsoon,0,2019-09
+Groceries,Sweets,442,2019,9,Monsoon,0,2019-09
+Groceries,Soft Drinks,274,2019,9,Monsoon,0,2019-09
+Groceries,Ice Cream,261,2019,9,Monsoon,0,2019-09
+School & Stationery,Notebooks,271,2019,9,Monsoon,0,2019-09
+School & Stationery,School Bags,224,2019,9,Monsoon,0,2019-09
+School & Stationery,Stationery Kits,203,2019,9,Monsoon,0,2019-09
+Electronics,Air Conditioner,275,2019,10,Normal,1,2019-10
+Electronics,Air Cooler,195,2019,10,Normal,1,2019-10
+Electronics,Refrigerator,231,2019,10,Normal,1,2019-10
+Electronics,Heater,137,2019,10,Normal,1,2019-10
+Electronics,LED TV,1313,2019,10,Normal,1,2019-10
+Electronics,Smartphone,1487,2019,10,Normal,1,2019-10
+Electronics,Laptop,1165,2019,10,Normal,1,2019-10
+Electronics,Tablet,920,2019,10,Normal,1,2019-10
+Home Appliances,Washing Machine,796,2019,10,Normal,1,2019-10
+Home Appliances,Microwave,635,2019,10,Normal,1,2019-10
+Clothing & Fashion,Raincoat,114,2019,10,Normal,1,2019-10
+Clothing & Fashion,Hoodie,143,2019,10,Normal,1,2019-10
+Clothing & Fashion,Sweatshirt,158,2019,10,Normal,1,2019-10
+Clothing & Fashion,Jeans,358,2019,10,Normal,1,2019-10
+Clothing & Fashion,Footwear,311,2019,10,Normal,1,2019-10
+Groceries,Rice,1031,2019,10,Normal,1,2019-10
+Groceries,Oil,881,2019,10,Normal,1,2019-10
+Groceries,Sweets,788,2019,10,Normal,1,2019-10
+Groceries,Soft Drinks,287,2019,10,Normal,1,2019-10
+Groceries,Ice Cream,259,2019,10,Normal,1,2019-10
+School & Stationery,Notebooks,271,2019,10,Normal,1,2019-10
+School & Stationery,School Bags,227,2019,10,Normal,1,2019-10
+School & Stationery,Stationery Kits,197,2019,10,Normal,1,2019-10
+Electronics,Air Conditioner,263,2019,11,Normal,1,2019-11
+Electronics,Air Cooler,199,2019,11,Normal,1,2019-11
+Electronics,Refrigerator,229,2019,11,Normal,1,2019-11
+Electronics,Heater,144,2019,11,Normal,1,2019-11
+Electronics,LED TV,1296,2019,11,Normal,1,2019-11
+Electronics,Smartphone,1533,2019,11,Normal,1,2019-11
+Electronics,Laptop,1155,2019,11,Normal,1,2019-11
+Electronics,Tablet,933,2019,11,Normal,1,2019-11
+Home Appliances,Washing Machine,751,2019,11,Normal,1,2019-11
+Home Appliances,Microwave,648,2019,11,Normal,1,2019-11
+Clothing & Fashion,Raincoat,112,2019,11,Normal,1,2019-11
+Clothing & Fashion,Hoodie,149,2019,11,Normal,1,2019-11
+Clothing & Fashion,Sweatshirt,148,2019,11,Normal,1,2019-11
+Clothing & Fashion,Jeans,380,2019,11,Normal,1,2019-11
+Clothing & Fashion,Footwear,324,2019,11,Normal,1,2019-11
+Groceries,Rice,1013,2019,11,Normal,1,2019-11
+Groceries,Oil,921,2019,11,Normal,1,2019-11
+Groceries,Sweets,833,2019,11,Normal,1,2019-11
+Groceries,Soft Drinks,286,2019,11,Normal,1,2019-11
+Groceries,Ice Cream,248,2019,11,Normal,1,2019-11
+School & Stationery,Notebooks,270,2019,11,Normal,1,2019-11
+School & Stationery,School Bags,225,2019,11,Normal,1,2019-11
+School & Stationery,Stationery Kits,195,2019,11,Normal,1,2019-11
+Electronics,Air Conditioner,273,2019,12,Winter,0,2019-12
+Electronics,Air Cooler,208,2019,12,Winter,0,2019-12
+Electronics,Refrigerator,243,2019,12,Winter,0,2019-12
+Electronics,Heater,613,2019,12,Winter,0,2019-12
+Electronics,LED TV,488,2019,12,Winter,0,2019-12
+Electronics,Smartphone,628,2019,12,Winter,0,2019-12
+Electronics,Laptop,465,2019,12,Winter,0,2019-12
+Electronics,Tablet,342,2019,12,Winter,0,2019-12
+Home Appliances,Washing Machine,312,2019,12,Winter,0,2019-12
+Home Appliances,Microwave,259,2019,12,Winter,0,2019-12
+Clothing & Fashion,Raincoat,112,2019,12,Winter,0,2019-12
+Clothing & Fashion,Hoodie,570,2019,12,Winter,0,2019-12
+Clothing & Fashion,Sweatshirt,587,2019,12,Winter,0,2019-12
+Clothing & Fashion,Jeans,356,2019,12,Winter,0,2019-12
+Clothing & Fashion,Footwear,309,2019,12,Winter,0,2019-12
+Groceries,Rice,573,2019,12,Winter,0,2019-12
+Groceries,Oil,484,2019,12,Winter,0,2019-12
+Groceries,Sweets,442,2019,12,Winter,0,2019-12
+Groceries,Soft Drinks,279,2019,12,Winter,0,2019-12
+Groceries,Ice Cream,256,2019,12,Winter,0,2019-12
+School & Stationery,Notebooks,277,2019,12,Winter,0,2019-12
+School & Stationery,School Bags,221,2019,12,Winter,0,2019-12
+School & Stationery,Stationery Kits,194,2019,12,Winter,0,2019-12
+Electronics,Air Conditioner,288,2020,1,Winter,1,2020-01
+Electronics,Air Cooler,211,2020,1,Winter,1,2020-01
+Electronics,Refrigerator,242,2020,1,Winter,1,2020-01
+Electronics,Heater,646,2020,1,Winter,1,2020-01
+Electronics,LED TV,1318,2020,1,Winter,1,2020-01
+Electronics,Smartphone,1586,2020,1,Winter,1,2020-01
+Electronics,Laptop,1221,2020,1,Winter,1,2020-01
+Electronics,Tablet,943,2020,1,Winter,1,2020-01
+Home Appliances,Washing Machine,841,2020,1,Winter,1,2020-01
+Home Appliances,Microwave,671,2020,1,Winter,1,2020-01
+Clothing & Fashion,Raincoat,118,2020,1,Winter,1,2020-01
+Clothing & Fashion,Hoodie,603,2020,1,Winter,1,2020-01
+Clothing & Fashion,Sweatshirt,599,2020,1,Winter,1,2020-01
+Clothing & Fashion,Jeans,394,2020,1,Winter,1,2020-01
+Clothing & Fashion,Footwear,321,2020,1,Winter,1,2020-01
+Groceries,Rice,1101,2020,1,Winter,1,2020-01
+Groceries,Oil,928,2020,1,Winter,1,2020-01
+Groceries,Sweets,843,2020,1,Winter,1,2020-01
+Groceries,Soft Drinks,287,2020,1,Winter,1,2020-01
+Groceries,Ice Cream,279,2020,1,Winter,1,2020-01
+School & Stationery,Notebooks,283,2020,1,Winter,1,2020-01
+School & Stationery,School Bags,237,2020,1,Winter,1,2020-01
+School & Stationery,Stationery Kits,200,2020,1,Winter,1,2020-01
+Electronics,Air Conditioner,288,2020,2,Normal,0,2020-02
+Electronics,Air Cooler,207,2020,2,Normal,0,2020-02
+Electronics,Refrigerator,255,2020,2,Normal,0,2020-02
+Electronics,Heater,144,2020,2,Normal,0,2020-02
+Electronics,LED TV,517,2020,2,Normal,0,2020-02
+Electronics,Smartphone,613,2020,2,Normal,0,2020-02
+Electronics,Laptop,476,2020,2,Normal,0,2020-02
+Electronics,Tablet,373,2020,2,Normal,0,2020-02
+Home Appliances,Washing Machine,307,2020,2,Normal,0,2020-02
+Home Appliances,Microwave,271,2020,2,Normal,0,2020-02
+Clothing & Fashion,Raincoat,117,2020,2,Normal,0,2020-02
+Clothing & Fashion,Hoodie,156,2020,2,Normal,0,2020-02
+Clothing & Fashion,Sweatshirt,162,2020,2,Normal,0,2020-02
+Clothing & Fashion,Jeans,386,2020,2,Normal,0,2020-02
+Clothing & Fashion,Footwear,331,2020,2,Normal,0,2020-02
+Groceries,Rice,573,2020,2,Normal,0,2020-02
+Groceries,Oil,517,2020,2,Normal,0,2020-02
+Groceries,Sweets,485,2020,2,Normal,0,2020-02
+Groceries,Soft Drinks,307,2020,2,Normal,0,2020-02
+Groceries,Ice Cream,266,2020,2,Normal,0,2020-02
+School & Stationery,Notebooks,278,2020,2,Normal,0,2020-02
+School & Stationery,School Bags,238,2020,2,Normal,0,2020-02
+School & Stationery,Stationery Kits,206,2020,2,Normal,0,2020-02
+Electronics,Air Conditioner,1135,2020,3,Summer,0,2020-03
+Electronics,Air Cooler,860,2020,3,Summer,0,2020-03
+Electronics,Refrigerator,1050,2020,3,Summer,0,2020-03
+Electronics,Heater,149,2020,3,Summer,0,2020-03
+Electronics,LED TV,510,2020,3,Summer,0,2020-03
+Electronics,Smartphone,623,2020,3,Summer,0,2020-03
+Electronics,Laptop,467,2020,3,Summer,0,2020-03
+Electronics,Tablet,376,2020,3,Summer,0,2020-03
+Home Appliances,Washing Machine,306,2020,3,Summer,0,2020-03
+Home Appliances,Microwave,257,2020,3,Summer,0,2020-03
+Clothing & Fashion,Raincoat,120,2020,3,Summer,0,2020-03
+Clothing & Fashion,Hoodie,151,2020,3,Summer,0,2020-03
+Clothing & Fashion,Sweatshirt,164,2020,3,Summer,0,2020-03
+Clothing & Fashion,Jeans,381,2020,3,Summer,0,2020-03
+Clothing & Fashion,Footwear,575,2020,3,Summer,0,2020-03
+Groceries,Rice,577,2020,3,Summer,0,2020-03
+Groceries,Oil,540,2020,3,Summer,0,2020-03
+Groceries,Sweets,485,2020,3,Summer,0,2020-03
+Groceries,Soft Drinks,1271,2020,3,Summer,0,2020-03
+Groceries,Ice Cream,1111,2020,3,Summer,0,2020-03
+School & Stationery,Notebooks,287,2020,3,Summer,0,2020-03
+School & Stationery,School Bags,230,2020,3,Summer,0,2020-03
+School & Stationery,Stationery Kits,204,2020,3,Summer,0,2020-03
+Electronics,Air Conditioner,1217,2020,4,Summer,0,2020-04
+Electronics,Air Cooler,850,2020,4,Summer,0,2020-04
+Electronics,Refrigerator,998,2020,4,Summer,0,2020-04
+Electronics,Heater,144,2020,4,Summer,0,2020-04
+Electronics,LED TV,510,2020,4,Summer,0,2020-04
+Electronics,Smartphone,620,2020,4,Summer,0,2020-04
+Electronics,Laptop,481,2020,4,Summer,0,2020-04
+Electronics,Tablet,369,2020,4,Summer,0,2020-04
+Home Appliances,Washing Machine,328,2020,4,Summer,0,2020-04
+Home Appliances,Microwave,272,2020,4,Summer,0,2020-04
+Clothing & Fashion,Raincoat,116,2020,4,Summer,0,2020-04
+Clothing & Fashion,Hoodie,152,2020,4,Summer,0,2020-04
+Clothing & Fashion,Sweatshirt,161,2020,4,Summer,0,2020-04
+Clothing & Fashion,Jeans,392,2020,4,Summer,0,2020-04
+Clothing & Fashion,Footwear,583,2020,4,Summer,0,2020-04
+Groceries,Rice,595,2020,4,Summer,0,2020-04
+Groceries,Oil,527,2020,4,Summer,0,2020-04
+Groceries,Sweets,473,2020,4,Summer,0,2020-04
+Groceries,Soft Drinks,1232,2020,4,Summer,0,2020-04
+Groceries,Ice Cream,1102,2020,4,Summer,0,2020-04
+School & Stationery,Notebooks,293,2020,4,Summer,0,2020-04
+School & Stationery,School Bags,240,2020,4,Summer,0,2020-04
+School & Stationery,Stationery Kits,201,2020,4,Summer,0,2020-04
+Electronics,Air Conditioner,1214,2020,5,Summer,0,2020-05
+Electronics,Air Cooler,884,2020,5,Summer,0,2020-05
+Electronics,Refrigerator,1065,2020,5,Summer,0,2020-05
+Electronics,Heater,151,2020,5,Summer,0,2020-05
+Electronics,LED TV,527,2020,5,Summer,0,2020-05
+Electronics,Smartphone,612,2020,5,Summer,0,2020-05
+Electronics,Laptop,469,2020,5,Summer,0,2020-05
+Electronics,Tablet,372,2020,5,Summer,0,2020-05
+Home Appliances,Washing Machine,322,2020,5,Summer,0,2020-05
+Home Appliances,Microwave,260,2020,5,Summer,0,2020-05
+Clothing & Fashion,Raincoat,114,2020,5,Summer,0,2020-05
+Clothing & Fashion,Hoodie,159,2020,5,Summer,0,2020-05
+Clothing & Fashion,Sweatshirt,169,2020,5,Summer,0,2020-05
+Clothing & Fashion,Jeans,390,2020,5,Summer,0,2020-05
+Clothing & Fashion,Footwear,579,2020,5,Summer,0,2020-05
+Groceries,Rice,579,2020,5,Summer,0,2020-05
+Groceries,Oil,510,2020,5,Summer,0,2020-05
+Groceries,Sweets,487,2020,5,Summer,0,2020-05
+Groceries,Soft Drinks,1201,2020,5,Summer,0,2020-05
+Groceries,Ice Cream,1127,2020,5,Summer,0,2020-05
+School & Stationery,Notebooks,278,2020,5,Summer,0,2020-05
+School & Stationery,School Bags,237,2020,5,Summer,0,2020-05
+School & Stationery,Stationery Kits,210,2020,5,Summer,0,2020-05
+Electronics,Air Conditioner,1211,2020,6,Summer,0,2020-06
+Electronics,Air Cooler,864,2020,6,Summer,0,2020-06
+Electronics,Refrigerator,992,2020,6,Summer,0,2020-06
+Electronics,Heater,143,2020,6,Summer,0,2020-06
+Electronics,LED TV,547,2020,6,Summer,0,2020-06
+Electronics,Smartphone,656,2020,6,Summer,0,2020-06
+Electronics,Laptop,481,2020,6,Summer,0,2020-06
+Electronics,Tablet,374,2020,6,Summer,0,2020-06
+Home Appliances,Washing Machine,322,2020,6,Summer,0,2020-06
+Home Appliances,Microwave,258,2020,6,Summer,0,2020-06
+Clothing & Fashion,Raincoat,121,2020,6,Summer,0,2020-06
+Clothing & Fashion,Hoodie,154,2020,6,Summer,0,2020-06
+Clothing & Fashion,Sweatshirt,161,2020,6,Summer,0,2020-06
+Clothing & Fashion,Jeans,389,2020,6,Summer,0,2020-06
+Clothing & Fashion,Footwear,573,2020,6,Summer,0,2020-06
+Groceries,Rice,574,2020,6,Summer,0,2020-06
+Groceries,Oil,541,2020,6,Summer,0,2020-06
+Groceries,Sweets,456,2020,6,Summer,0,2020-06
+Groceries,Soft Drinks,1249,2020,6,Summer,0,2020-06
+Groceries,Ice Cream,1098,2020,6,Summer,0,2020-06
+School & Stationery,Notebooks,771,2020,6,Summer,0,2020-06
+School & Stationery,School Bags,638,2020,6,Summer,0,2020-06
+School & Stationery,Stationery Kits,564,2020,6,Summer,0,2020-06
+Electronics,Air Conditioner,288,2020,7,Monsoon,0,2020-07
+Electronics,Air Cooler,208,2020,7,Monsoon,0,2020-07
+Electronics,Refrigerator,249,2020,7,Monsoon,0,2020-07
+Electronics,Heater,647,2020,7,Monsoon,0,2020-07
+Electronics,LED TV,537,2020,7,Monsoon,0,2020-07
+Electronics,Smartphone,659,2020,7,Monsoon,0,2020-07
+Electronics,Laptop,486,2020,7,Monsoon,0,2020-07
+Electronics,Tablet,363,2020,7,Monsoon,0,2020-07
+Home Appliances,Washing Machine,306,2020,7,Monsoon,0,2020-07
+Home Appliances,Microwave,260,2020,7,Monsoon,0,2020-07
+Clothing & Fashion,Raincoat,594,2020,7,Monsoon,0,2020-07
+Clothing & Fashion,Hoodie,150,2020,7,Monsoon,0,2020-07
+Clothing & Fashion,Sweatshirt,162,2020,7,Monsoon,0,2020-07
+Clothing & Fashion,Jeans,392,2020,7,Monsoon,0,2020-07
+Clothing & Fashion,Footwear,326,2020,7,Monsoon,0,2020-07
+Groceries,Rice,602,2020,7,Monsoon,0,2020-07
+Groceries,Oil,514,2020,7,Monsoon,0,2020-07
+Groceries,Sweets,455,2020,7,Monsoon,0,2020-07
+Groceries,Soft Drinks,302,2020,7,Monsoon,0,2020-07
+Groceries,Ice Cream,268,2020,7,Monsoon,0,2020-07
+School & Stationery,Notebooks,790,2020,7,Monsoon,0,2020-07
+School & Stationery,School Bags,645,2020,7,Monsoon,0,2020-07
+School & Stationery,Stationery Kits,559,2020,7,Monsoon,0,2020-07
+Electronics,Air Conditioner,290,2020,8,Monsoon,0,2020-08
+Electronics,Air Cooler,217,2020,8,Monsoon,0,2020-08
+Electronics,Refrigerator,251,2020,8,Monsoon,0,2020-08
+Electronics,Heater,637,2020,8,Monsoon,0,2020-08
+Electronics,LED TV,534,2020,8,Monsoon,0,2020-08
+Electronics,Smartphone,630,2020,8,Monsoon,0,2020-08
+Electronics,Laptop,462,2020,8,Monsoon,0,2020-08
+Electronics,Tablet,384,2020,8,Monsoon,0,2020-08
+Home Appliances,Washing Machine,309,2020,8,Monsoon,0,2020-08
+Home Appliances,Microwave,275,2020,8,Monsoon,0,2020-08
+Clothing & Fashion,Raincoat,587,2020,8,Monsoon,0,2020-08
+Clothing & Fashion,Hoodie,151,2020,8,Monsoon,0,2020-08
+Clothing & Fashion,Sweatshirt,163,2020,8,Monsoon,0,2020-08
+Clothing & Fashion,Jeans,401,2020,8,Monsoon,0,2020-08
+Clothing & Fashion,Footwear,336,2020,8,Monsoon,0,2020-08
+Groceries,Rice,604,2020,8,Monsoon,0,2020-08
+Groceries,Oil,537,2020,8,Monsoon,0,2020-08
+Groceries,Sweets,479,2020,8,Monsoon,0,2020-08
+Groceries,Soft Drinks,305,2020,8,Monsoon,0,2020-08
+Groceries,Ice Cream,263,2020,8,Monsoon,0,2020-08
+School & Stationery,Notebooks,282,2020,8,Monsoon,0,2020-08
+School & Stationery,School Bags,230,2020,8,Monsoon,0,2020-08
+School & Stationery,Stationery Kits,215,2020,8,Monsoon,0,2020-08
+Electronics,Air Conditioner,293,2020,9,Monsoon,0,2020-09
+Electronics,Air Cooler,204,2020,9,Monsoon,0,2020-09
+Electronics,Refrigerator,251,2020,9,Monsoon,0,2020-09
+Electronics,Heater,671,2020,9,Monsoon,0,2020-09
+Electronics,LED TV,517,2020,9,Monsoon,0,2020-09
+Electronics,Smartphone,640,2020,9,Monsoon,0,2020-09
+Electronics,Laptop,493,2020,9,Monsoon,0,2020-09
+Electronics,Tablet,357,2020,9,Monsoon,0,2020-09
+Home Appliances,Washing Machine,323,2020,9,Monsoon,0,2020-09
+Home Appliances,Microwave,261,2020,9,Monsoon,0,2020-09
+Clothing & Fashion,Raincoat,610,2020,9,Monsoon,0,2020-09
+Clothing & Fashion,Hoodie,161,2020,9,Monsoon,0,2020-09
+Clothing & Fashion,Sweatshirt,168,2020,9,Monsoon,0,2020-09
+Clothing & Fashion,Jeans,388,2020,9,Monsoon,0,2020-09
+Clothing & Fashion,Footwear,339,2020,9,Monsoon,0,2020-09
+Groceries,Rice,606,2020,9,Monsoon,0,2020-09
+Groceries,Oil,523,2020,9,Monsoon,0,2020-09
+Groceries,Sweets,484,2020,9,Monsoon,0,2020-09
+Groceries,Soft Drinks,286,2020,9,Monsoon,0,2020-09
+Groceries,Ice Cream,271,2020,9,Monsoon,0,2020-09
+School & Stationery,Notebooks,277,2020,9,Monsoon,0,2020-09
+School & Stationery,School Bags,228,2020,9,Monsoon,0,2020-09
+School & Stationery,Stationery Kits,200,2020,9,Monsoon,0,2020-09
+Electronics,Air Conditioner,287,2020,10,Normal,1,2020-10
+Electronics,Air Cooler,209,2020,10,Normal,1,2020-10
+Electronics,Refrigerator,252,2020,10,Normal,1,2020-10
+Electronics,Heater,142,2020,10,Normal,1,2020-10
+Electronics,LED TV,1336,2020,10,Normal,1,2020-10
+Electronics,Smartphone,1633,2020,10,Normal,1,2020-10
+Electronics,Laptop,1249,2020,10,Normal,1,2020-10
+Electronics,Tablet,936,2020,10,Normal,1,2020-10
+Home Appliances,Washing Machine,822,2020,10,Normal,1,2020-10
+Home Appliances,Microwave,699,2020,10,Normal,1,2020-10
+Clothing & Fashion,Raincoat,119,2020,10,Normal,1,2020-10
+Clothing & Fashion,Hoodie,152,2020,10,Normal,1,2020-10
+Clothing & Fashion,Sweatshirt,156,2020,10,Normal,1,2020-10
+Clothing & Fashion,Jeans,400,2020,10,Normal,1,2020-10
+Clothing & Fashion,Footwear,317,2020,10,Normal,1,2020-10
+Groceries,Rice,1093,2020,10,Normal,1,2020-10
+Groceries,Oil,958,2020,10,Normal,1,2020-10
+Groceries,Sweets,879,2020,10,Normal,1,2020-10
+Groceries,Soft Drinks,304,2020,10,Normal,1,2020-10
+Groceries,Ice Cream,279,2020,10,Normal,1,2020-10
+School & Stationery,Notebooks,279,2020,10,Normal,1,2020-10
+School & Stationery,School Bags,241,2020,10,Normal,1,2020-10
+School & Stationery,Stationery Kits,206,2020,10,Normal,1,2020-10
+Electronics,Air Conditioner,282,2020,11,Normal,1,2020-11
+Electronics,Air Cooler,214,2020,11,Normal,1,2020-11
+Electronics,Refrigerator,255,2020,11,Normal,1,2020-11
+Electronics,Heater,153,2020,11,Normal,1,2020-11
+Electronics,LED TV,1386,2020,11,Normal,1,2020-11
+Electronics,Smartphone,1617,2020,11,Normal,1,2020-11
+Electronics,Laptop,1213,2020,11,Normal,1,2020-11
+Electronics,Tablet,967,2020,11,Normal,1,2020-11
+Home Appliances,Washing Machine,797,2020,11,Normal,1,2020-11
+Home Appliances,Microwave,657,2020,11,Normal,1,2020-11
+Clothing & Fashion,Raincoat,116,2020,11,Normal,1,2020-11
+Clothing & Fashion,Hoodie,153,2020,11,Normal,1,2020-11
+Clothing & Fashion,Sweatshirt,160,2020,11,Normal,1,2020-11
+Clothing & Fashion,Jeans,381,2020,11,Normal,1,2020-11
+Clothing & Fashion,Footwear,318,2020,11,Normal,1,2020-11
+Groceries,Rice,1021,2020,11,Normal,1,2020-11
+Groceries,Oil,993,2020,11,Normal,1,2020-11
+Groceries,Sweets,844,2020,11,Normal,1,2020-11
+Groceries,Soft Drinks,294,2020,11,Normal,1,2020-11
+Groceries,Ice Cream,272,2020,11,Normal,1,2020-11
+School & Stationery,Notebooks,276,2020,11,Normal,1,2020-11
+School & Stationery,School Bags,244,2020,11,Normal,1,2020-11
+School & Stationery,Stationery Kits,212,2020,11,Normal,1,2020-11
+Electronics,Air Conditioner,273,2020,12,Winter,0,2020-12
+Electronics,Air Cooler,210,2020,12,Winter,0,2020-12
+Electronics,Refrigerator,255,2020,12,Winter,0,2020-12
+Electronics,Heater,672,2020,12,Winter,0,2020-12
+Electronics,LED TV,529,2020,12,Winter,0,2020-12
+Electronics,Smartphone,642,2020,12,Winter,0,2020-12
+Electronics,Laptop,465,2020,12,Winter,0,2020-12
+Electronics,Tablet,386,2020,12,Winter,0,2020-12
+Home Appliances,Washing Machine,311,2020,12,Winter,0,2020-12
+Home Appliances,Microwave,274,2020,12,Winter,0,2020-12
+Clothing & Fashion,Raincoat,119,2020,12,Winter,0,2020-12
+Clothing & Fashion,Hoodie,602,2020,12,Winter,0,2020-12
+Clothing & Fashion,Sweatshirt,624,2020,12,Winter,0,2020-12
+Clothing & Fashion,Jeans,381,2020,12,Winter,0,2020-12
+Clothing & Fashion,Footwear,321,2020,12,Winter,0,2020-12
+Groceries,Rice,576,2020,12,Winter,0,2020-12
+Groceries,Oil,517,2020,12,Winter,0,2020-12
+Groceries,Sweets,482,2020,12,Winter,0,2020-12
+Groceries,Soft Drinks,293,2020,12,Winter,0,2020-12
+Groceries,Ice Cream,259,2020,12,Winter,0,2020-12
+School & Stationery,Notebooks,293,2020,12,Winter,0,2020-12
+School & Stationery,School Bags,243,2020,12,Winter,0,2020-12
+School & Stationery,Stationery Kits,214,2020,12,Winter,0,2020-12
+Electronics,Air Conditioner,309,2021,1,Winter,1,2021-01
+Electronics,Air Cooler,217,2021,1,Winter,1,2021-01
+Electronics,Refrigerator,258,2021,1,Winter,1,2021-01
+Electronics,Heater,696,2021,1,Winter,1,2021-01
+Electronics,LED TV,1448,2021,1,Winter,1,2021-01
+Electronics,Smartphone,1663,2021,1,Winter,1,2021-01
+Electronics,Laptop,1315,2021,1,Winter,1,2021-01
+Electronics,Tablet,976,2021,1,Winter,1,2021-01
+Home Appliances,Washing Machine,836,2021,1,Winter,1,2021-01
+Home Appliances,Microwave,715,2021,1,Winter,1,2021-01
+Clothing & Fashion,Raincoat,124,2021,1,Winter,1,2021-01
+Clothing & Fashion,Hoodie,631,2021,1,Winter,1,2021-01
+Clothing & Fashion,Sweatshirt,634,2021,1,Winter,1,2021-01
+Clothing & Fashion,Jeans,421,2021,1,Winter,1,2021-01
+Clothing & Fashion,Footwear,340,2021,1,Winter,1,2021-01
+Groceries,Rice,1082,2021,1,Winter,1,2021-01
+Groceries,Oil,1035,2021,1,Winter,1,2021-01
+Groceries,Sweets,925,2021,1,Winter,1,2021-01
+Groceries,Soft Drinks,321,2021,1,Winter,1,2021-01
+Groceries,Ice Cream,289,2021,1,Winter,1,2021-01
+School & Stationery,Notebooks,301,2021,1,Winter,1,2021-01
+School & Stationery,School Bags,249,2021,1,Winter,1,2021-01
+School & Stationery,Stationery Kits,211,2021,1,Winter,1,2021-01
+Electronics,Air Conditioner,295,2021,2,Normal,0,2021-02
+Electronics,Air Cooler,220,2021,2,Normal,0,2021-02
+Electronics,Refrigerator,255,2021,2,Normal,0,2021-02
+Electronics,Heater,157,2021,2,Normal,0,2021-02
+Electronics,LED TV,557,2021,2,Normal,0,2021-02
+Electronics,Smartphone,647,2021,2,Normal,0,2021-02
+Electronics,Laptop,490,2021,2,Normal,0,2021-02
+Electronics,Tablet,396,2021,2,Normal,0,2021-02
+Home Appliances,Washing Machine,323,2021,2,Normal,0,2021-02
+Home Appliances,Microwave,286,2021,2,Normal,0,2021-02
+Clothing & Fashion,Raincoat,123,2021,2,Normal,0,2021-02
+Clothing & Fashion,Hoodie,163,2021,2,Normal,0,2021-02
+Clothing & Fashion,Sweatshirt,172,2021,2,Normal,0,2021-02
+Clothing & Fashion,Jeans,419,2021,2,Normal,0,2021-02
+Clothing & Fashion,Footwear,342,2021,2,Normal,0,2021-02
+Groceries,Rice,628,2021,2,Normal,0,2021-02
+Groceries,Oil,560,2021,2,Normal,0,2021-02
+Groceries,Sweets,486,2021,2,Normal,0,2021-02
+Groceries,Soft Drinks,321,2021,2,Normal,0,2021-02
+Groceries,Ice Cream,289,2021,2,Normal,0,2021-02
+School & Stationery,Notebooks,301,2021,2,Normal,0,2021-02
+School & Stationery,School Bags,254,2021,2,Normal,0,2021-02
+School & Stationery,Stationery Kits,224,2021,2,Normal,0,2021-02
+Electronics,Air Conditioner,1260,2021,3,Summer,0,2021-03
+Electronics,Air Cooler,955,2021,3,Summer,0,2021-03
+Electronics,Refrigerator,1102,2021,3,Summer,0,2021-03
+Electronics,Heater,157,2021,3,Summer,0,2021-03
+Electronics,LED TV,563,2021,3,Summer,0,2021-03
+Electronics,Smartphone,683,2021,3,Summer,0,2021-03
+Electronics,Laptop,488,2021,3,Summer,0,2021-03
+Electronics,Tablet,402,2021,3,Summer,0,2021-03
+Home Appliances,Washing Machine,344,2021,3,Summer,0,2021-03
+Home Appliances,Microwave,268,2021,3,Summer,0,2021-03
+Clothing & Fashion,Raincoat,127,2021,3,Summer,0,2021-03
+Clothing & Fashion,Hoodie,158,2021,3,Summer,0,2021-03
+Clothing & Fashion,Sweatshirt,168,2021,3,Summer,0,2021-03
+Clothing & Fashion,Jeans,417,2021,3,Summer,0,2021-03
+Clothing & Fashion,Footwear,607,2021,3,Summer,0,2021-03
+Groceries,Rice,635,2021,3,Summer,0,2021-03
+Groceries,Oil,572,2021,3,Summer,0,2021-03
+Groceries,Sweets,496,2021,3,Summer,0,2021-03
+Groceries,Soft Drinks,1250,2021,3,Summer,0,2021-03
+Groceries,Ice Cream,1157,2021,3,Summer,0,2021-03
+School & Stationery,Notebooks,300,2021,3,Summer,0,2021-03
+School & Stationery,School Bags,257,2021,3,Summer,0,2021-03
+School & Stationery,Stationery Kits,220,2021,3,Summer,0,2021-03
+Electronics,Air Conditioner,1216,2021,4,Summer,0,2021-04
+Electronics,Air Cooler,939,2021,4,Summer,0,2021-04
+Electronics,Refrigerator,1088,2021,4,Summer,0,2021-04
+Electronics,Heater,158,2021,4,Summer,0,2021-04
+Electronics,LED TV,540,2021,4,Summer,0,2021-04
+Electronics,Smartphone,683,2021,4,Summer,0,2021-04
+Electronics,Laptop,503,2021,4,Summer,0,2021-04
+Electronics,Tablet,405,2021,4,Summer,0,2021-04
+Home Appliances,Washing Machine,330,2021,4,Summer,0,2021-04
+Home Appliances,Microwave,281,2021,4,Summer,0,2021-04
+Clothing & Fashion,Raincoat,128,2021,4,Summer,0,2021-04
+Clothing & Fashion,Hoodie,158,2021,4,Summer,0,2021-04
+Clothing & Fashion,Sweatshirt,177,2021,4,Summer,0,2021-04
+Clothing & Fashion,Jeans,415,2021,4,Summer,0,2021-04
+Clothing & Fashion,Footwear,603,2021,4,Summer,0,2021-04
+Groceries,Rice,610,2021,4,Summer,0,2021-04
+Groceries,Oil,567,2021,4,Summer,0,2021-04
+Groceries,Sweets,478,2021,4,Summer,0,2021-04
+Groceries,Soft Drinks,1310,2021,4,Summer,0,2021-04
+Groceries,Ice Cream,1163,2021,4,Summer,0,2021-04
+School & Stationery,Notebooks,300,2021,4,Summer,0,2021-04
+School & Stationery,School Bags,238,2021,4,Summer,0,2021-04
+School & Stationery,Stationery Kits,224,2021,4,Summer,0,2021-04
+Electronics,Air Conditioner,1286,2021,5,Summer,0,2021-05
+Electronics,Air Cooler,964,2021,5,Summer,0,2021-05
+Electronics,Refrigerator,1106,2021,5,Summer,0,2021-05
+Electronics,Heater,150,2021,5,Summer,0,2021-05
+Electronics,LED TV,569,2021,5,Summer,0,2021-05
+Electronics,Smartphone,644,2021,5,Summer,0,2021-05
+Electronics,Laptop,483,2021,5,Summer,0,2021-05
+Electronics,Tablet,385,2021,5,Summer,0,2021-05
+Home Appliances,Washing Machine,334,2021,5,Summer,0,2021-05
+Home Appliances,Microwave,285,2021,5,Summer,0,2021-05
+Clothing & Fashion,Raincoat,125,2021,5,Summer,0,2021-05
+Clothing & Fashion,Hoodie,162,2021,5,Summer,0,2021-05
+Clothing & Fashion,Sweatshirt,168,2021,5,Summer,0,2021-05
+Clothing & Fashion,Jeans,425,2021,5,Summer,0,2021-05
+Clothing & Fashion,Footwear,621,2021,5,Summer,0,2021-05
+Groceries,Rice,617,2021,5,Summer,0,2021-05
+Groceries,Oil,542,2021,5,Summer,0,2021-05
+Groceries,Sweets,507,2021,5,Summer,0,2021-05
+Groceries,Soft Drinks,1322,2021,5,Summer,0,2021-05
+Groceries,Ice Cream,1151,2021,5,Summer,0,2021-05
+School & Stationery,Notebooks,287,2021,5,Summer,0,2021-05
+School & Stationery,School Bags,251,2021,5,Summer,0,2021-05
+School & Stationery,Stationery Kits,220,2021,5,Summer,0,2021-05
+Electronics,Air Conditioner,1217,2021,6,Summer,0,2021-06
+Electronics,Air Cooler,963,2021,6,Summer,0,2021-06
+Electronics,Refrigerator,1054,2021,6,Summer,0,2021-06
+Electronics,Heater,154,2021,6,Summer,0,2021-06
+Electronics,LED TV,577,2021,6,Summer,0,2021-06
+Electronics,Smartphone,665,2021,6,Summer,0,2021-06
+Electronics,Laptop,507,2021,6,Summer,0,2021-06
+Electronics,Tablet,387,2021,6,Summer,0,2021-06
+Home Appliances,Washing Machine,328,2021,6,Summer,0,2021-06
+Home Appliances,Microwave,289,2021,6,Summer,0,2021-06
+Clothing & Fashion,Raincoat,123,2021,6,Summer,0,2021-06
+Clothing & Fashion,Hoodie,168,2021,6,Summer,0,2021-06
+Clothing & Fashion,Sweatshirt,167,2021,6,Summer,0,2021-06
+Clothing & Fashion,Jeans,399,2021,6,Summer,0,2021-06
+Clothing & Fashion,Footwear,601,2021,6,Summer,0,2021-06
+Groceries,Rice,627,2021,6,Summer,0,2021-06
+Groceries,Oil,552,2021,6,Summer,0,2021-06
+Groceries,Sweets,510,2021,6,Summer,0,2021-06
+Groceries,Soft Drinks,1299,2021,6,Summer,0,2021-06
+Groceries,Ice Cream,1222,2021,6,Summer,0,2021-06
+School & Stationery,Notebooks,797,2021,6,Summer,0,2021-06
+School & Stationery,School Bags,702,2021,6,Summer,0,2021-06
+School & Stationery,Stationery Kits,613,2021,6,Summer,0,2021-06
+Electronics,Air Conditioner,304,2021,7,Monsoon,0,2021-07
+Electronics,Air Cooler,229,2021,7,Monsoon,0,2021-07
+Electronics,Refrigerator,265,2021,7,Monsoon,0,2021-07
+Electronics,Heater,688,2021,7,Monsoon,0,2021-07
+Electronics,LED TV,541,2021,7,Monsoon,0,2021-07
+Electronics,Smartphone,644,2021,7,Monsoon,0,2021-07
+Electronics,Laptop,519,2021,7,Monsoon,0,2021-07
+Electronics,Tablet,394,2021,7,Monsoon,0,2021-07
+Home Appliances,Washing Machine,342,2021,7,Monsoon,0,2021-07
+Home Appliances,Microwave,278,2021,7,Monsoon,0,2021-07
+Clothing & Fashion,Raincoat,601,2021,7,Monsoon,0,2021-07
+Clothing & Fashion,Hoodie,158,2021,7,Monsoon,0,2021-07
+Clothing & Fashion,Sweatshirt,173,2021,7,Monsoon,0,2021-07
+Clothing & Fashion,Jeans,406,2021,7,Monsoon,0,2021-07
+Clothing & Fashion,Footwear,338,2021,7,Monsoon,0,2021-07
+Groceries,Rice,619,2021,7,Monsoon,0,2021-07
+Groceries,Oil,538,2021,7,Monsoon,0,2021-07
+Groceries,Sweets,499,2021,7,Monsoon,0,2021-07
+Groceries,Soft Drinks,306,2021,7,Monsoon,0,2021-07
+Groceries,Ice Cream,289,2021,7,Monsoon,0,2021-07
+School & Stationery,Notebooks,805,2021,7,Monsoon,0,2021-07
+School & Stationery,School Bags,679,2021,7,Monsoon,0,2021-07
+School & Stationery,Stationery Kits,576,2021,7,Monsoon,0,2021-07
+Electronics,Air Conditioner,287,2021,8,Monsoon,0,2021-08
+Electronics,Air Cooler,221,2021,8,Monsoon,0,2021-08
+Electronics,Refrigerator,259,2021,8,Monsoon,0,2021-08
+Electronics,Heater,687,2021,8,Monsoon,0,2021-08
+Electronics,LED TV,548,2021,8,Monsoon,0,2021-08
+Electronics,Smartphone,680,2021,8,Monsoon,0,2021-08
+Electronics,Laptop,516,2021,8,Monsoon,0,2021-08
+Electronics,Tablet,399,2021,8,Monsoon,0,2021-08
+Home Appliances,Washing Machine,322,2021,8,Monsoon,0,2021-08
+Home Appliances,Microwave,278,2021,8,Monsoon,0,2021-08
+Clothing & Fashion,Raincoat,600,2021,8,Monsoon,0,2021-08
+Clothing & Fashion,Hoodie,160,2021,8,Monsoon,0,2021-08
+Clothing & Fashion,Sweatshirt,177,2021,8,Monsoon,0,2021-08
+Clothing & Fashion,Jeans,397,2021,8,Monsoon,0,2021-08
+Clothing & Fashion,Footwear,347,2021,8,Monsoon,0,2021-08
+Groceries,Rice,625,2021,8,Monsoon,0,2021-08
+Groceries,Oil,567,2021,8,Monsoon,0,2021-08
+Groceries,Sweets,498,2021,8,Monsoon,0,2021-08
+Groceries,Soft Drinks,300,2021,8,Monsoon,0,2021-08
+Groceries,Ice Cream,278,2021,8,Monsoon,0,2021-08
+School & Stationery,Notebooks,298,2021,8,Monsoon,0,2021-08
+School & Stationery,School Bags,239,2021,8,Monsoon,0,2021-08
+School & Stationery,Stationery Kits,215,2021,8,Monsoon,0,2021-08
+Electronics,Air Conditioner,286,2021,9,Monsoon,0,2021-09
+Electronics,Air Cooler,215,2021,9,Monsoon,0,2021-09
+Electronics,Refrigerator,258,2021,9,Monsoon,0,2021-09
+Electronics,Heater,661,2021,9,Monsoon,0,2021-09
+Electronics,LED TV,561,2021,9,Monsoon,0,2021-09
+Electronics,Smartphone,679,2021,9,Monsoon,0,2021-09
+Electronics,Laptop,514,2021,9,Monsoon,0,2021-09
+Electronics,Tablet,381,2021,9,Monsoon,0,2021-09
+Home Appliances,Washing Machine,325,2021,9,Monsoon,0,2021-09
+Home Appliances,Microwave,270,2021,9,Monsoon,0,2021-09
+Clothing & Fashion,Raincoat,626,2021,9,Monsoon,0,2021-09
+Clothing & Fashion,Hoodie,166,2021,9,Monsoon,0,2021-09
+Clothing & Fashion,Sweatshirt,164,2021,9,Monsoon,0,2021-09
+Clothing & Fashion,Jeans,423,2021,9,Monsoon,0,2021-09
+Clothing & Fashion,Footwear,334,2021,9,Monsoon,0,2021-09
+Groceries,Rice,622,2021,9,Monsoon,0,2021-09
+Groceries,Oil,567,2021,9,Monsoon,0,2021-09
+Groceries,Sweets,510,2021,9,Monsoon,0,2021-09
+Groceries,Soft Drinks,317,2021,9,Monsoon,0,2021-09
+Groceries,Ice Cream,289,2021,9,Monsoon,0,2021-09
+School & Stationery,Notebooks,293,2021,9,Monsoon,0,2021-09
+School & Stationery,School Bags,254,2021,9,Monsoon,0,2021-09
+School & Stationery,Stationery Kits,210,2021,9,Monsoon,0,2021-09
+Electronics,Air Conditioner,306,2021,10,Normal,1,2021-10
+Electronics,Air Cooler,224,2021,10,Normal,1,2021-10
+Electronics,Refrigerator,267,2021,10,Normal,1,2021-10
+Electronics,Heater,154,2021,10,Normal,1,2021-10
+Electronics,LED TV,1442,2021,10,Normal,1,2021-10
+Electronics,Smartphone,1714,2021,10,Normal,1,2021-10
+Electronics,Laptop,1307,2021,10,Normal,1,2021-10
+Electronics,Tablet,964,2021,10,Normal,1,2021-10
+Home Appliances,Washing Machine,825,2021,10,Normal,1,2021-10
+Home Appliances,Microwave,698,2021,10,Normal,1,2021-10
+Clothing & Fashion,Raincoat,120,2021,10,Normal,1,2021-10
+Clothing & Fashion,Hoodie,168,2021,10,Normal,1,2021-10
+Clothing & Fashion,Sweatshirt,167,2021,10,Normal,1,2021-10
+Clothing & Fashion,Jeans,424,2021,10,Normal,1,2021-10
+Clothing & Fashion,Footwear,342,2021,10,Normal,1,2021-10
+Groceries,Rice,1087,2021,10,Normal,1,2021-10
+Groceries,Oil,1027,2021,10,Normal,1,2021-10
+Groceries,Sweets,904,2021,10,Normal,1,2021-10
+Groceries,Soft Drinks,312,2021,10,Normal,1,2021-10
+Groceries,Ice Cream,283,2021,10,Normal,1,2021-10
+School & Stationery,Notebooks,302,2021,10,Normal,1,2021-10
+School & Stationery,School Bags,242,2021,10,Normal,1,2021-10
+School & Stationery,Stationery Kits,226,2021,10,Normal,1,2021-10
+Electronics,Air Conditioner,308,2021,11,Normal,1,2021-11
+Electronics,Air Cooler,225,2021,11,Normal,1,2021-11
+Electronics,Refrigerator,254,2021,11,Normal,1,2021-11
+Electronics,Heater,157,2021,11,Normal,1,2021-11
+Electronics,LED TV,1377,2021,11,Normal,1,2021-11
+Electronics,Smartphone,1646,2021,11,Normal,1,2021-11
+Electronics,Laptop,1258,2021,11,Normal,1,2021-11
+Electronics,Tablet,995,2021,11,Normal,1,2021-11
+Home Appliances,Washing Machine,880,2021,11,Normal,1,2021-11
+Home Appliances,Microwave,725,2021,11,Normal,1,2021-11
+Clothing & Fashion,Raincoat,126,2021,11,Normal,1,2021-11
+Clothing & Fashion,Hoodie,162,2021,11,Normal,1,2021-11
+Clothing & Fashion,Sweatshirt,169,2021,11,Normal,1,2021-11
+Clothing & Fashion,Jeans,404,2021,11,Normal,1,2021-11
+Clothing & Fashion,Footwear,360,2021,11,Normal,1,2021-11
+Groceries,Rice,1074,2021,11,Normal,1,2021-11
+Groceries,Oil,1033,2021,11,Normal,1,2021-11
+Groceries,Sweets,898,2021,11,Normal,1,2021-11
+Groceries,Soft Drinks,310,2021,11,Normal,1,2021-11
+Groceries,Ice Cream,287,2021,11,Normal,1,2021-11
+School & Stationery,Notebooks,297,2021,11,Normal,1,2021-11
+School & Stationery,School Bags,255,2021,11,Normal,1,2021-11
+School & Stationery,Stationery Kits,225,2021,11,Normal,1,2021-11
+Electronics,Air Conditioner,295,2021,12,Winter,0,2021-12
+Electronics,Air Cooler,219,2021,12,Winter,0,2021-12
+Electronics,Refrigerator,262,2021,12,Winter,0,2021-12
+Electronics,Heater,704,2021,12,Winter,0,2021-12
+Electronics,LED TV,545,2021,12,Winter,0,2021-12
+Electronics,Smartphone,676,2021,12,Winter,0,2021-12
+Electronics,Laptop,507,2021,12,Winter,0,2021-12
+Electronics,Tablet,397,2021,12,Winter,0,2021-12
+Home Appliances,Washing Machine,324,2021,12,Winter,0,2021-12
+Home Appliances,Microwave,283,2021,12,Winter,0,2021-12
+Clothing & Fashion,Raincoat,128,2021,12,Winter,0,2021-12
+Clothing & Fashion,Hoodie,611,2021,12,Winter,0,2021-12
+Clothing & Fashion,Sweatshirt,642,2021,12,Winter,0,2021-12
+Clothing & Fashion,Jeans,424,2021,12,Winter,0,2021-12
+Clothing & Fashion,Footwear,338,2021,12,Winter,0,2021-12
+Groceries,Rice,637,2021,12,Winter,0,2021-12
+Groceries,Oil,557,2021,12,Winter,0,2021-12
+Groceries,Sweets,485,2021,12,Winter,0,2021-12
+Groceries,Soft Drinks,321,2021,12,Winter,0,2021-12
+Groceries,Ice Cream,281,2021,12,Winter,0,2021-12
+School & Stationery,Notebooks,297,2021,12,Winter,0,2021-12
+School & Stationery,School Bags,245,2021,12,Winter,0,2021-12
+School & Stationery,Stationery Kits,219,2021,12,Winter,0,2021-12
+Electronics,Air Conditioner,303,2022,1,Winter,1,2022-01
+Electronics,Air Cooler,231,2022,1,Winter,1,2022-01
+Electronics,Refrigerator,283,2022,1,Winter,1,2022-01
+Electronics,Heater,701,2022,1,Winter,1,2022-01
+Electronics,LED TV,1513,2022,1,Winter,1,2022-01
+Electronics,Smartphone,1768,2022,1,Winter,1,2022-01
+Electronics,Laptop,1374,2022,1,Winter,1,2022-01
+Electronics,Tablet,1015,2022,1,Winter,1,2022-01
+Home Appliances,Washing Machine,930,2022,1,Winter,1,2022-01
+Home Appliances,Microwave,744,2022,1,Winter,1,2022-01
+Clothing & Fashion,Raincoat,127,2022,1,Winter,1,2022-01
+Clothing & Fashion,Hoodie,635,2022,1,Winter,1,2022-01
+Clothing & Fashion,Sweatshirt,669,2022,1,Winter,1,2022-01
+Clothing & Fashion,Jeans,429,2022,1,Winter,1,2022-01
+Clothing & Fashion,Footwear,359,2022,1,Winter,1,2022-01
+Groceries,Rice,1200,2022,1,Winter,1,2022-01
+Groceries,Oil,1047,2022,1,Winter,1,2022-01
+Groceries,Sweets,917,2022,1,Winter,1,2022-01
+Groceries,Soft Drinks,330,2022,1,Winter,1,2022-01
+Groceries,Ice Cream,301,2022,1,Winter,1,2022-01
+School & Stationery,Notebooks,303,2022,1,Winter,1,2022-01
+School & Stationery,School Bags,253,2022,1,Winter,1,2022-01
+School & Stationery,Stationery Kits,220,2022,1,Winter,1,2022-01
+Electronics,Air Conditioner,317,2022,2,Normal,0,2022-02
+Electronics,Air Cooler,237,2022,2,Normal,0,2022-02
+Electronics,Refrigerator,272,2022,2,Normal,0,2022-02
+Electronics,Heater,166,2022,2,Normal,0,2022-02
+Electronics,LED TV,599,2022,2,Normal,0,2022-02
+Electronics,Smartphone,706,2022,2,Normal,0,2022-02
+Electronics,Laptop,542,2022,2,Normal,0,2022-02
+Electronics,Tablet,399,2022,2,Normal,0,2022-02
+Home Appliances,Washing Machine,340,2022,2,Normal,0,2022-02
+Home Appliances,Microwave,287,2022,2,Normal,0,2022-02
+Clothing & Fashion,Raincoat,125,2022,2,Normal,0,2022-02
+Clothing & Fashion,Hoodie,172,2022,2,Normal,0,2022-02
+Clothing & Fashion,Sweatshirt,185,2022,2,Normal,0,2022-02
+Clothing & Fashion,Jeans,413,2022,2,Normal,0,2022-02
+Clothing & Fashion,Footwear,352,2022,2,Normal,0,2022-02
+Groceries,Rice,647,2022,2,Normal,0,2022-02
+Groceries,Oil,605,2022,2,Normal,0,2022-02
+Groceries,Sweets,512,2022,2,Normal,0,2022-02
+Groceries,Soft Drinks,327,2022,2,Normal,0,2022-02
+Groceries,Ice Cream,285,2022,2,Normal,0,2022-02
+School & Stationery,Notebooks,303,2022,2,Normal,0,2022-02
+School & Stationery,School Bags,270,2022,2,Normal,0,2022-02
+School & Stationery,Stationery Kits,237,2022,2,Normal,0,2022-02
+Electronics,Air Conditioner,1248,2022,3,Summer,0,2022-03
+Electronics,Air Cooler,1010,2022,3,Summer,0,2022-03
+Electronics,Refrigerator,1150,2022,3,Summer,0,2022-03
+Electronics,Heater,167,2022,3,Summer,0,2022-03
+Electronics,LED TV,582,2022,3,Summer,0,2022-03
+Electronics,Smartphone,702,2022,3,Summer,0,2022-03
+Electronics,Laptop,526,2022,3,Summer,0,2022-03
+Electronics,Tablet,414,2022,3,Summer,0,2022-03
+Home Appliances,Washing Machine,340,2022,3,Summer,0,2022-03
+Home Appliances,Microwave,281,2022,3,Summer,0,2022-03
+Clothing & Fashion,Raincoat,128,2022,3,Summer,0,2022-03
+Clothing & Fashion,Hoodie,174,2022,3,Summer,0,2022-03
+Clothing & Fashion,Sweatshirt,175,2022,3,Summer,0,2022-03
+Clothing & Fashion,Jeans,434,2022,3,Summer,0,2022-03
+Clothing & Fashion,Footwear,679,2022,3,Summer,0,2022-03
+Groceries,Rice,628,2022,3,Summer,0,2022-03
+Groceries,Oil,593,2022,3,Summer,0,2022-03
+Groceries,Sweets,517,2022,3,Summer,0,2022-03
+Groceries,Soft Drinks,1405,2022,3,Summer,0,2022-03
+Groceries,Ice Cream,1203,2022,3,Summer,0,2022-03
+School & Stationery,Notebooks,316,2022,3,Summer,0,2022-03
+School & Stationery,School Bags,267,2022,3,Summer,0,2022-03
+School & Stationery,Stationery Kits,236,2022,3,Summer,0,2022-03
+Electronics,Air Conditioner,1319,2022,4,Summer,0,2022-04
+Electronics,Air Cooler,974,2022,4,Summer,0,2022-04
+Electronics,Refrigerator,1148,2022,4,Summer,0,2022-04
+Electronics,Heater,167,2022,4,Summer,0,2022-04
+Electronics,LED TV,588,2022,4,Summer,0,2022-04
+Electronics,Smartphone,675,2022,4,Summer,0,2022-04
+Electronics,Laptop,544,2022,4,Summer,0,2022-04
+Electronics,Tablet,415,2022,4,Summer,0,2022-04
+Home Appliances,Washing Machine,355,2022,4,Summer,0,2022-04
+Home Appliances,Microwave,285,2022,4,Summer,0,2022-04
+Clothing & Fashion,Raincoat,131,2022,4,Summer,0,2022-04
+Clothing & Fashion,Hoodie,170,2022,4,Summer,0,2022-04
+Clothing & Fashion,Sweatshirt,181,2022,4,Summer,0,2022-04
+Clothing & Fashion,Jeans,415,2022,4,Summer,0,2022-04
+Clothing & Fashion,Footwear,663,2022,4,Summer,0,2022-04
+Groceries,Rice,675,2022,4,Summer,0,2022-04
+Groceries,Oil,563,2022,4,Summer,0,2022-04
+Groceries,Sweets,539,2022,4,Summer,0,2022-04
+Groceries,Soft Drinks,1354,2022,4,Summer,0,2022-04
+Groceries,Ice Cream,1271,2022,4,Summer,0,2022-04
+School & Stationery,Notebooks,319,2022,4,Summer,0,2022-04
+School & Stationery,School Bags,261,2022,4,Summer,0,2022-04
+School & Stationery,Stationery Kits,233,2022,4,Summer,0,2022-04
+Electronics,Air Conditioner,1339,2022,5,Summer,0,2022-05
+Electronics,Air Cooler,967,2022,5,Summer,0,2022-05
+Electronics,Refrigerator,1121,2022,5,Summer,0,2022-05
+Electronics,Heater,164,2022,5,Summer,0,2022-05
+Electronics,LED TV,599,2022,5,Summer,0,2022-05
+Electronics,Smartphone,716,2022,5,Summer,0,2022-05
+Electronics,Laptop,539,2022,5,Summer,0,2022-05
+Electronics,Tablet,407,2022,5,Summer,0,2022-05
+Home Appliances,Washing Machine,359,2022,5,Summer,0,2022-05
+Home Appliances,Microwave,283,2022,5,Summer,0,2022-05
+Clothing & Fashion,Raincoat,130,2022,5,Summer,0,2022-05
+Clothing & Fashion,Hoodie,164,2022,5,Summer,0,2022-05
+Clothing & Fashion,Sweatshirt,176,2022,5,Summer,0,2022-05
+Clothing & Fashion,Jeans,424,2022,5,Summer,0,2022-05
+Clothing & Fashion,Footwear,649,2022,5,Summer,0,2022-05
+Groceries,Rice,660,2022,5,Summer,0,2022-05
+Groceries,Oil,579,2022,5,Summer,0,2022-05
+Groceries,Sweets,517,2022,5,Summer,0,2022-05
+Groceries,Soft Drinks,1336,2022,5,Summer,0,2022-05
+Groceries,Ice Cream,1222,2022,5,Summer,0,2022-05
+School & Stationery,Notebooks,305,2022,5,Summer,0,2022-05
+School & Stationery,School Bags,251,2022,5,Summer,0,2022-05
+School & Stationery,Stationery Kits,230,2022,5,Summer,0,2022-05
+Electronics,Air Conditioner,1317,2022,6,Summer,0,2022-06
+Electronics,Air Cooler,984,2022,6,Summer,0,2022-06
+Electronics,Refrigerator,1134,2022,6,Summer,0,2022-06
+Electronics,Heater,160,2022,6,Summer,0,2022-06
+Electronics,LED TV,602,2022,6,Summer,0,2022-06
+Electronics,Smartphone,703,2022,6,Summer,0,2022-06
+Electronics,Laptop,525,2022,6,Summer,0,2022-06
+Electronics,Tablet,393,2022,6,Summer,0,2022-06
+Home Appliances,Washing Machine,346,2022,6,Summer,0,2022-06
+Home Appliances,Microwave,289,2022,6,Summer,0,2022-06
+Clothing & Fashion,Raincoat,128,2022,6,Summer,0,2022-06
+Clothing & Fashion,Hoodie,172,2022,6,Summer,0,2022-06
+Clothing & Fashion,Sweatshirt,179,2022,6,Summer,0,2022-06
+Clothing & Fashion,Jeans,432,2022,6,Summer,0,2022-06
+Clothing & Fashion,Footwear,669,2022,6,Summer,0,2022-06
+Groceries,Rice,666,2022,6,Summer,0,2022-06
+Groceries,Oil,595,2022,6,Summer,0,2022-06
+Groceries,Sweets,538,2022,6,Summer,0,2022-06
+Groceries,Soft Drinks,1312,2022,6,Summer,0,2022-06
+Groceries,Ice Cream,1204,2022,6,Summer,0,2022-06
+School & Stationery,Notebooks,824,2022,6,Summer,0,2022-06
+School & Stationery,School Bags,723,2022,6,Summer,0,2022-06
+School & Stationery,Stationery Kits,649,2022,6,Summer,0,2022-06
+Electronics,Air Conditioner,305,2022,7,Monsoon,0,2022-07
+Electronics,Air Cooler,241,2022,7,Monsoon,0,2022-07
+Electronics,Refrigerator,263,2022,7,Monsoon,0,2022-07
+Electronics,Heater,739,2022,7,Monsoon,0,2022-07
+Electronics,LED TV,578,2022,7,Monsoon,0,2022-07
+Electronics,Smartphone,679,2022,7,Monsoon,0,2022-07
+Electronics,Laptop,525,2022,7,Monsoon,0,2022-07
+Electronics,Tablet,401,2022,7,Monsoon,0,2022-07
+Home Appliances,Washing Machine,344,2022,7,Monsoon,0,2022-07
+Home Appliances,Microwave,287,2022,7,Monsoon,0,2022-07
+Clothing & Fashion,Raincoat,665,2022,7,Monsoon,0,2022-07
+Clothing & Fashion,Hoodie,172,2022,7,Monsoon,0,2022-07
+Clothing & Fashion,Sweatshirt,176,2022,7,Monsoon,0,2022-07
+Clothing & Fashion,Jeans,432,2022,7,Monsoon,0,2022-07
+Clothing & Fashion,Footwear,370,2022,7,Monsoon,0,2022-07
+Groceries,Rice,638,2022,7,Monsoon,0,2022-07
+Groceries,Oil,580,2022,7,Monsoon,0,2022-07
+Groceries,Sweets,504,2022,7,Monsoon,0,2022-07
+Groceries,Soft Drinks,319,2022,7,Monsoon,0,2022-07
+Groceries,Ice Cream,300,2022,7,Monsoon,0,2022-07
+School & Stationery,Notebooks,836,2022,7,Monsoon,0,2022-07
+School & Stationery,School Bags,716,2022,7,Monsoon,0,2022-07
+School & Stationery,Stationery Kits,639,2022,7,Monsoon,0,2022-07
+Electronics,Air Conditioner,302,2022,8,Monsoon,0,2022-08
+Electronics,Air Cooler,235,2022,8,Monsoon,0,2022-08
+Electronics,Refrigerator,267,2022,8,Monsoon,0,2022-08
+Electronics,Heater,741,2022,8,Monsoon,0,2022-08
+Electronics,LED TV,584,2022,8,Monsoon,0,2022-08
+Electronics,Smartphone,719,2022,8,Monsoon,0,2022-08
+Electronics,Laptop,528,2022,8,Monsoon,0,2022-08
+Electronics,Tablet,394,2022,8,Monsoon,0,2022-08
+Home Appliances,Washing Machine,354,2022,8,Monsoon,0,2022-08
+Home Appliances,Microwave,303,2022,8,Monsoon,0,2022-08
+Clothing & Fashion,Raincoat,655,2022,8,Monsoon,0,2022-08
+Clothing & Fashion,Hoodie,175,2022,8,Monsoon,0,2022-08
+Clothing & Fashion,Sweatshirt,184,2022,8,Monsoon,0,2022-08
+Clothing & Fashion,Jeans,419,2022,8,Monsoon,0,2022-08
+Clothing & Fashion,Footwear,355,2022,8,Monsoon,0,2022-08
+Groceries,Rice,655,2022,8,Monsoon,0,2022-08
+Groceries,Oil,580,2022,8,Monsoon,0,2022-08
+Groceries,Sweets,534,2022,8,Monsoon,0,2022-08
+Groceries,Soft Drinks,338,2022,8,Monsoon,0,2022-08
+Groceries,Ice Cream,292,2022,8,Monsoon,0,2022-08
+School & Stationery,Notebooks,305,2022,8,Monsoon,0,2022-08
+School & Stationery,School Bags,265,2022,8,Monsoon,0,2022-08
+School & Stationery,Stationery Kits,224,2022,8,Monsoon,0,2022-08
+Electronics,Air Conditioner,320,2022,9,Monsoon,0,2022-09
+Electronics,Air Cooler,232,2022,9,Monsoon,0,2022-09
+Electronics,Refrigerator,276,2022,9,Monsoon,0,2022-09
+Electronics,Heater,691,2022,9,Monsoon,0,2022-09
+Electronics,LED TV,590,2022,9,Monsoon,0,2022-09
+Electronics,Smartphone,699,2022,9,Monsoon,0,2022-09
+Electronics,Laptop,530,2022,9,Monsoon,0,2022-09
+Electronics,Tablet,398,2022,9,Monsoon,0,2022-09
+Home Appliances,Washing Machine,357,2022,9,Monsoon,0,2022-09
+Home Appliances,Microwave,300,2022,9,Monsoon,0,2022-09
+Clothing & Fashion,Raincoat,635,2022,9,Monsoon,0,2022-09
+Clothing & Fashion,Hoodie,166,2022,9,Monsoon,0,2022-09
+Clothing & Fashion,Sweatshirt,172,2022,9,Monsoon,0,2022-09
+Clothing & Fashion,Jeans,433,2022,9,Monsoon,0,2022-09
+Clothing & Fashion,Footwear,367,2022,9,Monsoon,0,2022-09
+Groceries,Rice,652,2022,9,Monsoon,0,2022-09
+Groceries,Oil,572,2022,9,Monsoon,0,2022-09
+Groceries,Sweets,515,2022,9,Monsoon,0,2022-09
+Groceries,Soft Drinks,330,2022,9,Monsoon,0,2022-09
+Groceries,Ice Cream,296,2022,9,Monsoon,0,2022-09
+School & Stationery,Notebooks,324,2022,9,Monsoon,0,2022-09
+School & Stationery,School Bags,252,2022,9,Monsoon,0,2022-09
+School & Stationery,Stationery Kits,232,2022,9,Monsoon,0,2022-09
+Electronics,Air Conditioner,309,2022,10,Normal,1,2022-10
+Electronics,Air Cooler,232,2022,10,Normal,1,2022-10
+Electronics,Refrigerator,277,2022,10,Normal,1,2022-10
+Electronics,Heater,165,2022,10,Normal,1,2022-10
+Electronics,LED TV,1553,2022,10,Normal,1,2022-10
+Electronics,Smartphone,1740,2022,10,Normal,1,2022-10
+Electronics,Laptop,1302,2022,10,Normal,1,2022-10
+Electronics,Tablet,1065,2022,10,Normal,1,2022-10
+Home Appliances,Washing Machine,902,2022,10,Normal,1,2022-10
+Home Appliances,Microwave,733,2022,10,Normal,1,2022-10
+Clothing & Fashion,Raincoat,125,2022,10,Normal,1,2022-10
+Clothing & Fashion,Hoodie,165,2022,10,Normal,1,2022-10
+Clothing & Fashion,Sweatshirt,185,2022,10,Normal,1,2022-10
+Clothing & Fashion,Jeans,418,2022,10,Normal,1,2022-10
+Clothing & Fashion,Footwear,358,2022,10,Normal,1,2022-10
+Groceries,Rice,1144,2022,10,Normal,1,2022-10
+Groceries,Oil,1040,2022,10,Normal,1,2022-10
+Groceries,Sweets,903,2022,10,Normal,1,2022-10
+Groceries,Soft Drinks,328,2022,10,Normal,1,2022-10
+Groceries,Ice Cream,286,2022,10,Normal,1,2022-10
+School & Stationery,Notebooks,319,2022,10,Normal,1,2022-10
+School & Stationery,School Bags,254,2022,10,Normal,1,2022-10
+School & Stationery,Stationery Kits,229,2022,10,Normal,1,2022-10
+Electronics,Air Conditioner,321,2022,11,Normal,1,2022-11
+Electronics,Air Cooler,236,2022,11,Normal,1,2022-11
+Electronics,Refrigerator,273,2022,11,Normal,1,2022-11
+Electronics,Heater,160,2022,11,Normal,1,2022-11
+Electronics,LED TV,1475,2022,11,Normal,1,2022-11
+Electronics,Smartphone,1818,2022,11,Normal,1,2022-11
+Electronics,Laptop,1398,2022,11,Normal,1,2022-11
+Electronics,Tablet,1060,2022,11,Normal,1,2022-11
+Home Appliances,Washing Machine,901,2022,11,Normal,1,2022-11
+Home Appliances,Microwave,761,2022,11,Normal,1,2022-11
+Clothing & Fashion,Raincoat,129,2022,11,Normal,1,2022-11
+Clothing & Fashion,Hoodie,165,2022,11,Normal,1,2022-11
+Clothing & Fashion,Sweatshirt,180,2022,11,Normal,1,2022-11
+Clothing & Fashion,Jeans,444,2022,11,Normal,1,2022-11
+Clothing & Fashion,Footwear,354,2022,11,Normal,1,2022-11
+Groceries,Rice,1187,2022,11,Normal,1,2022-11
+Groceries,Oil,1027,2022,11,Normal,1,2022-11
+Groceries,Sweets,938,2022,11,Normal,1,2022-11
+Groceries,Soft Drinks,317,2022,11,Normal,1,2022-11
+Groceries,Ice Cream,295,2022,11,Normal,1,2022-11
+School & Stationery,Notebooks,318,2022,11,Normal,1,2022-11
+School & Stationery,School Bags,256,2022,11,Normal,1,2022-11
+School & Stationery,Stationery Kits,231,2022,11,Normal,1,2022-11
+Electronics,Air Conditioner,319,2022,12,Winter,0,2022-12
+Electronics,Air Cooler,241,2022,12,Winter,0,2022-12
+Electronics,Refrigerator,267,2022,12,Winter,0,2022-12
+Electronics,Heater,709,2022,12,Winter,0,2022-12
+Electronics,LED TV,568,2022,12,Winter,0,2022-12
+Electronics,Smartphone,729,2022,12,Winter,0,2022-12
+Electronics,Laptop,544,2022,12,Winter,0,2022-12
+Electronics,Tablet,410,2022,12,Winter,0,2022-12
+Home Appliances,Washing Machine,360,2022,12,Winter,0,2022-12
+Home Appliances,Microwave,292,2022,12,Winter,0,2022-12
+Clothing & Fashion,Raincoat,131,2022,12,Winter,0,2022-12
+Clothing & Fashion,Hoodie,636,2022,12,Winter,0,2022-12
+Clothing & Fashion,Sweatshirt,701,2022,12,Winter,0,2022-12
+Clothing & Fashion,Jeans,416,2022,12,Winter,0,2022-12
+Clothing & Fashion,Footwear,373,2022,12,Winter,0,2022-12
+Groceries,Rice,664,2022,12,Winter,0,2022-12
+Groceries,Oil,594,2022,12,Winter,0,2022-12
+Groceries,Sweets,500,2022,12,Winter,0,2022-12
+Groceries,Soft Drinks,322,2022,12,Winter,0,2022-12
+Groceries,Ice Cream,290,2022,12,Winter,0,2022-12
+School & Stationery,Notebooks,308,2022,12,Winter,0,2022-12
+School & Stationery,School Bags,251,2022,12,Winter,0,2022-12
+School & Stationery,Stationery Kits,236,2022,12,Winter,0,2022-12
+Electronics,Air Conditioner,327,2023,1,Winter,1,2023-01
+Electronics,Air Cooler,240,2023,1,Winter,1,2023-01
+Electronics,Refrigerator,283,2023,1,Winter,1,2023-01
+Electronics,Heater,744,2023,1,Winter,1,2023-01
+Electronics,LED TV,1576,2023,1,Winter,1,2023-01
+Electronics,Smartphone,1879,2023,1,Winter,1,2023-01
+Electronics,Laptop,1454,2023,1,Winter,1,2023-01
+Electronics,Tablet,1094,2023,1,Winter,1,2023-01
+Home Appliances,Washing Machine,975,2023,1,Winter,1,2023-01
+Home Appliances,Microwave,803,2023,1,Winter,1,2023-01
+Clothing & Fashion,Raincoat,132,2023,1,Winter,1,2023-01
+Clothing & Fashion,Hoodie,711,2023,1,Winter,1,2023-01
+Clothing & Fashion,Sweatshirt,697,2023,1,Winter,1,2023-01
+Clothing & Fashion,Jeans,460,2023,1,Winter,1,2023-01
+Clothing & Fashion,Footwear,377,2023,1,Winter,1,2023-01
+Groceries,Rice,1261,2023,1,Winter,1,2023-01
+Groceries,Oil,1134,2023,1,Winter,1,2023-01
+Groceries,Sweets,1003,2023,1,Winter,1,2023-01
+Groceries,Soft Drinks,350,2023,1,Winter,1,2023-01
+Groceries,Ice Cream,305,2023,1,Winter,1,2023-01
+School & Stationery,Notebooks,315,2023,1,Winter,1,2023-01
+School & Stationery,School Bags,269,2023,1,Winter,1,2023-01
+School & Stationery,Stationery Kits,233,2023,1,Winter,1,2023-01
+Electronics,Air Conditioner,331,2023,2,Normal,0,2023-02
+Electronics,Air Cooler,241,2023,2,Normal,0,2023-02
+Electronics,Refrigerator,296,2023,2,Normal,0,2023-02
+Electronics,Heater,171,2023,2,Normal,0,2023-02
+Electronics,LED TV,627,2023,2,Normal,0,2023-02
+Electronics,Smartphone,712,2023,2,Normal,0,2023-02
+Electronics,Laptop,566,2023,2,Normal,0,2023-02
+Electronics,Tablet,442,2023,2,Normal,0,2023-02
+Home Appliances,Washing Machine,366,2023,2,Normal,0,2023-02
+Home Appliances,Microwave,308,2023,2,Normal,0,2023-02
+Clothing & Fashion,Raincoat,138,2023,2,Normal,0,2023-02
+Clothing & Fashion,Hoodie,174,2023,2,Normal,0,2023-02
+Clothing & Fashion,Sweatshirt,187,2023,2,Normal,0,2023-02
+Clothing & Fashion,Jeans,445,2023,2,Normal,0,2023-02
+Clothing & Fashion,Footwear,370,2023,2,Normal,0,2023-02
+Groceries,Rice,672,2023,2,Normal,0,2023-02
+Groceries,Oil,590,2023,2,Normal,0,2023-02
+Groceries,Sweets,523,2023,2,Normal,0,2023-02
+Groceries,Soft Drinks,332,2023,2,Normal,0,2023-02
+Groceries,Ice Cream,321,2023,2,Normal,0,2023-02
+School & Stationery,Notebooks,327,2023,2,Normal,0,2023-02
+School & Stationery,School Bags,282,2023,2,Normal,0,2023-02
+School & Stationery,Stationery Kits,238,2023,2,Normal,0,2023-02
+Electronics,Air Conditioner,1339,2023,3,Summer,0,2023-03
+Electronics,Air Cooler,1020,2023,3,Summer,0,2023-03
+Electronics,Refrigerator,1184,2023,3,Summer,0,2023-03
+Electronics,Heater,164,2023,3,Summer,0,2023-03
+Electronics,LED TV,618,2023,3,Summer,0,2023-03
+Electronics,Smartphone,717,2023,3,Summer,0,2023-03
+Electronics,Laptop,556,2023,3,Summer,0,2023-03
+Electronics,Tablet,433,2023,3,Summer,0,2023-03
+Home Appliances,Washing Machine,356,2023,3,Summer,0,2023-03
+Home Appliances,Microwave,295,2023,3,Summer,0,2023-03
+Clothing & Fashion,Raincoat,139,2023,3,Summer,0,2023-03
+Clothing & Fashion,Hoodie,178,2023,3,Summer,0,2023-03
+Clothing & Fashion,Sweatshirt,181,2023,3,Summer,0,2023-03
+Clothing & Fashion,Jeans,466,2023,3,Summer,0,2023-03
+Clothing & Fashion,Footwear,661,2023,3,Summer,0,2023-03
+Groceries,Rice,690,2023,3,Summer,0,2023-03
+Groceries,Oil,635,2023,3,Summer,0,2023-03
+Groceries,Sweets,532,2023,3,Summer,0,2023-03
+Groceries,Soft Drinks,1387,2023,3,Summer,0,2023-03
+Groceries,Ice Cream,1252,2023,3,Summer,0,2023-03
+School & Stationery,Notebooks,321,2023,3,Summer,0,2023-03
+School & Stationery,School Bags,263,2023,3,Summer,0,2023-03
+School & Stationery,Stationery Kits,243,2023,3,Summer,0,2023-03
+Electronics,Air Conditioner,1312,2023,4,Summer,0,2023-04
+Electronics,Air Cooler,1020,2023,4,Summer,0,2023-04
+Electronics,Refrigerator,1237,2023,4,Summer,0,2023-04
+Electronics,Heater,174,2023,4,Summer,0,2023-04
+Electronics,LED TV,617,2023,4,Summer,0,2023-04
+Electronics,Smartphone,723,2023,4,Summer,0,2023-04
+Electronics,Laptop,556,2023,4,Summer,0,2023-04
+Electronics,Tablet,429,2023,4,Summer,0,2023-04
+Home Appliances,Washing Machine,365,2023,4,Summer,0,2023-04
+Home Appliances,Microwave,296,2023,4,Summer,0,2023-04
+Clothing & Fashion,Raincoat,140,2023,4,Summer,0,2023-04
+Clothing & Fashion,Hoodie,178,2023,4,Summer,0,2023-04
+Clothing & Fashion,Sweatshirt,183,2023,4,Summer,0,2023-04
+Clothing & Fashion,Jeans,444,2023,4,Summer,0,2023-04
+Clothing & Fashion,Footwear,680,2023,4,Summer,0,2023-04
+Groceries,Rice,697,2023,4,Summer,0,2023-04
+Groceries,Oil,623,2023,4,Summer,0,2023-04
+Groceries,Sweets,555,2023,4,Summer,0,2023-04
+Groceries,Soft Drinks,1372,2023,4,Summer,0,2023-04
+Groceries,Ice Cream,1283,2023,4,Summer,0,2023-04
+School & Stationery,Notebooks,325,2023,4,Summer,0,2023-04
+School & Stationery,School Bags,261,2023,4,Summer,0,2023-04
+School & Stationery,Stationery Kits,234,2023,4,Summer,0,2023-04
+Electronics,Air Conditioner,1388,2023,5,Summer,0,2023-05
+Electronics,Air Cooler,990,2023,5,Summer,0,2023-05
+Electronics,Refrigerator,1193,2023,5,Summer,0,2023-05
+Electronics,Heater,166,2023,5,Summer,0,2023-05
+Electronics,LED TV,588,2023,5,Summer,0,2023-05
+Electronics,Smartphone,719,2023,5,Summer,0,2023-05
+Electronics,Laptop,571,2023,5,Summer,0,2023-05
+Electronics,Tablet,438,2023,5,Summer,0,2023-05
+Home Appliances,Washing Machine,380,2023,5,Summer,0,2023-05
+Home Appliances,Microwave,305,2023,5,Summer,0,2023-05
+Clothing & Fashion,Raincoat,131,2023,5,Summer,0,2023-05
+Clothing & Fashion,Hoodie,180,2023,5,Summer,0,2023-05
+Clothing & Fashion,Sweatshirt,186,2023,5,Summer,0,2023-05
+Clothing & Fashion,Jeans,461,2023,5,Summer,0,2023-05
+Clothing & Fashion,Footwear,663,2023,5,Summer,0,2023-05
+Groceries,Rice,679,2023,5,Summer,0,2023-05
+Groceries,Oil,594,2023,5,Summer,0,2023-05
+Groceries,Sweets,536,2023,5,Summer,0,2023-05
+Groceries,Soft Drinks,1455,2023,5,Summer,0,2023-05
+Groceries,Ice Cream,1289,2023,5,Summer,0,2023-05
+School & Stationery,Notebooks,323,2023,5,Summer,0,2023-05
+School & Stationery,School Bags,269,2023,5,Summer,0,2023-05
+School & Stationery,Stationery Kits,238,2023,5,Summer,0,2023-05
+Electronics,Air Conditioner,1391,2023,6,Summer,0,2023-06
+Electronics,Air Cooler,1051,2023,6,Summer,0,2023-06
+Electronics,Refrigerator,1233,2023,6,Summer,0,2023-06
+Electronics,Heater,173,2023,6,Summer,0,2023-06
+Electronics,LED TV,602,2023,6,Summer,0,2023-06
+Electronics,Smartphone,745,2023,6,Summer,0,2023-06
+Electronics,Laptop,548,2023,6,Summer,0,2023-06
+Electronics,Tablet,419,2023,6,Summer,0,2023-06
+Home Appliances,Washing Machine,377,2023,6,Summer,0,2023-06
+Home Appliances,Microwave,294,2023,6,Summer,0,2023-06
+Clothing & Fashion,Raincoat,140,2023,6,Summer,0,2023-06
+Clothing & Fashion,Hoodie,178,2023,6,Summer,0,2023-06
+Clothing & Fashion,Sweatshirt,189,2023,6,Summer,0,2023-06
+Clothing & Fashion,Jeans,454,2023,6,Summer,0,2023-06
+Clothing & Fashion,Footwear,707,2023,6,Summer,0,2023-06
+Groceries,Rice,687,2023,6,Summer,0,2023-06
+Groceries,Oil,617,2023,6,Summer,0,2023-06
+Groceries,Sweets,525,2023,6,Summer,0,2023-06
+Groceries,Soft Drinks,1430,2023,6,Summer,0,2023-06
+Groceries,Ice Cream,1255,2023,6,Summer,0,2023-06
+School & Stationery,Notebooks,914,2023,6,Summer,0,2023-06
+School & Stationery,School Bags,748,2023,6,Summer,0,2023-06
+School & Stationery,Stationery Kits,667,2023,6,Summer,0,2023-06
+Electronics,Air Conditioner,314,2023,7,Monsoon,0,2023-07
+Electronics,Air Cooler,236,2023,7,Monsoon,0,2023-07
+Electronics,Refrigerator,290,2023,7,Monsoon,0,2023-07
+Electronics,Heater,722,2023,7,Monsoon,0,2023-07
+Electronics,LED TV,591,2023,7,Monsoon,0,2023-07
+Electronics,Smartphone,705,2023,7,Monsoon,0,2023-07
+Electronics,Laptop,570,2023,7,Monsoon,0,2023-07
+Electronics,Tablet,436,2023,7,Monsoon,0,2023-07
+Home Appliances,Washing Machine,362,2023,7,Monsoon,0,2023-07
+Home Appliances,Microwave,301,2023,7,Monsoon,0,2023-07
+Clothing & Fashion,Raincoat,671,2023,7,Monsoon,0,2023-07
+Clothing & Fashion,Hoodie,183,2023,7,Monsoon,0,2023-07
+Clothing & Fashion,Sweatshirt,190,2023,7,Monsoon,0,2023-07
+Clothing & Fashion,Jeans,437,2023,7,Monsoon,0,2023-07
+Clothing & Fashion,Footwear,370,2023,7,Monsoon,0,2023-07
+Groceries,Rice,658,2023,7,Monsoon,0,2023-07
+Groceries,Oil,619,2023,7,Monsoon,0,2023-07
+Groceries,Sweets,555,2023,7,Monsoon,0,2023-07
+Groceries,Soft Drinks,336,2023,7,Monsoon,0,2023-07
+Groceries,Ice Cream,298,2023,7,Monsoon,0,2023-07
+School & Stationery,Notebooks,867,2023,7,Monsoon,0,2023-07
+School & Stationery,School Bags,775,2023,7,Monsoon,0,2023-07
+School & Stationery,Stationery Kits,647,2023,7,Monsoon,0,2023-07
+Electronics,Air Conditioner,333,2023,8,Monsoon,0,2023-08
+Electronics,Air Cooler,247,2023,8,Monsoon,0,2023-08
+Electronics,Refrigerator,282,2023,8,Monsoon,0,2023-08
+Electronics,Heater,730,2023,8,Monsoon,0,2023-08
+Electronics,LED TV,593,2023,8,Monsoon,0,2023-08
+Electronics,Smartphone,741,2023,8,Monsoon,0,2023-08
+Electronics,Laptop,562,2023,8,Monsoon,0,2023-08
+Electronics,Tablet,433,2023,8,Monsoon,0,2023-08
+Home Appliances,Washing Machine,368,2023,8,Monsoon,0,2023-08
+Home Appliances,Microwave,294,2023,8,Monsoon,0,2023-08
+Clothing & Fashion,Raincoat,705,2023,8,Monsoon,0,2023-08
+Clothing & Fashion,Hoodie,183,2023,8,Monsoon,0,2023-08
+Clothing & Fashion,Sweatshirt,184,2023,8,Monsoon,0,2023-08
+Clothing & Fashion,Jeans,466,2023,8,Monsoon,0,2023-08
+Clothing & Fashion,Footwear,383,2023,8,Monsoon,0,2023-08
+Groceries,Rice,684,2023,8,Monsoon,0,2023-08
+Groceries,Oil,624,2023,8,Monsoon,0,2023-08
+Groceries,Sweets,557,2023,8,Monsoon,0,2023-08
+Groceries,Soft Drinks,347,2023,8,Monsoon,0,2023-08
+Groceries,Ice Cream,300,2023,8,Monsoon,0,2023-08
+School & Stationery,Notebooks,322,2023,8,Monsoon,0,2023-08
+School & Stationery,School Bags,281,2023,8,Monsoon,0,2023-08
+School & Stationery,Stationery Kits,234,2023,8,Monsoon,0,2023-08
+Electronics,Air Conditioner,323,2023,9,Monsoon,0,2023-09
+Electronics,Air Cooler,243,2023,9,Monsoon,0,2023-09
+Electronics,Refrigerator,284,2023,9,Monsoon,0,2023-09
+Electronics,Heater,754,2023,9,Monsoon,0,2023-09
+Electronics,LED TV,633,2023,9,Monsoon,0,2023-09
+Electronics,Smartphone,719,2023,9,Monsoon,0,2023-09
+Electronics,Laptop,534,2023,9,Monsoon,0,2023-09
+Electronics,Tablet,418,2023,9,Monsoon,0,2023-09
+Home Appliances,Washing Machine,378,2023,9,Monsoon,0,2023-09
+Home Appliances,Microwave,309,2023,9,Monsoon,0,2023-09
+Clothing & Fashion,Raincoat,668,2023,9,Monsoon,0,2023-09
+Clothing & Fashion,Hoodie,184,2023,9,Monsoon,0,2023-09
+Clothing & Fashion,Sweatshirt,193,2023,9,Monsoon,0,2023-09
+Clothing & Fashion,Jeans,461,2023,9,Monsoon,0,2023-09
+Clothing & Fashion,Footwear,393,2023,9,Monsoon,0,2023-09
+Groceries,Rice,666,2023,9,Monsoon,0,2023-09
+Groceries,Oil,624,2023,9,Monsoon,0,2023-09
+Groceries,Sweets,542,2023,9,Monsoon,0,2023-09
+Groceries,Soft Drinks,352,2023,9,Monsoon,0,2023-09
+Groceries,Ice Cream,315,2023,9,Monsoon,0,2023-09
+School & Stationery,Notebooks,333,2023,9,Monsoon,0,2023-09
+School & Stationery,School Bags,275,2023,9,Monsoon,0,2023-09
+School & Stationery,Stationery Kits,233,2023,9,Monsoon,0,2023-09
+Electronics,Air Conditioner,327,2023,10,Normal,1,2023-10
+Electronics,Air Cooler,254,2023,10,Normal,1,2023-10
+Electronics,Refrigerator,295,2023,10,Normal,1,2023-10
+Electronics,Heater,163,2023,10,Normal,1,2023-10
+Electronics,LED TV,1522,2023,10,Normal,1,2023-10
+Electronics,Smartphone,1821,2023,10,Normal,1,2023-10
+Electronics,Laptop,1433,2023,10,Normal,1,2023-10
+Electronics,Tablet,1122,2023,10,Normal,1,2023-10
+Home Appliances,Washing Machine,916,2023,10,Normal,1,2023-10
+Home Appliances,Microwave,782,2023,10,Normal,1,2023-10
+Clothing & Fashion,Raincoat,139,2023,10,Normal,1,2023-10
+Clothing & Fashion,Hoodie,182,2023,10,Normal,1,2023-10
+Clothing & Fashion,Sweatshirt,188,2023,10,Normal,1,2023-10
+Clothing & Fashion,Jeans,452,2023,10,Normal,1,2023-10
+Clothing & Fashion,Footwear,381,2023,10,Normal,1,2023-10
+Groceries,Rice,1204,2023,10,Normal,1,2023-10
+Groceries,Oil,1107,2023,10,Normal,1,2023-10
+Groceries,Sweets,993,2023,10,Normal,1,2023-10
+Groceries,Soft Drinks,352,2023,10,Normal,1,2023-10
+Groceries,Ice Cream,313,2023,10,Normal,1,2023-10
+School & Stationery,Notebooks,333,2023,10,Normal,1,2023-10
+School & Stationery,School Bags,264,2023,10,Normal,1,2023-10
+School & Stationery,Stationery Kits,238,2023,10,Normal,1,2023-10
+Electronics,Air Conditioner,313,2023,11,Normal,1,2023-11
+Electronics,Air Cooler,239,2023,11,Normal,1,2023-11
+Electronics,Refrigerator,290,2023,11,Normal,1,2023-11
+Electronics,Heater,176,2023,11,Normal,1,2023-11
+Electronics,LED TV,1513,2023,11,Normal,1,2023-11
+Electronics,Smartphone,1862,2023,11,Normal,1,2023-11
+Electronics,Laptop,1441,2023,11,Normal,1,2023-11
+Electronics,Tablet,1068,2023,11,Normal,1,2023-11
+Home Appliances,Washing Machine,942,2023,11,Normal,1,2023-11
+Home Appliances,Microwave,796,2023,11,Normal,1,2023-11
+Clothing & Fashion,Raincoat,137,2023,11,Normal,1,2023-11
+Clothing & Fashion,Hoodie,175,2023,11,Normal,1,2023-11
+Clothing & Fashion,Sweatshirt,185,2023,11,Normal,1,2023-11
+Clothing & Fashion,Jeans,458,2023,11,Normal,1,2023-11
+Clothing & Fashion,Footwear,382,2023,11,Normal,1,2023-11
+Groceries,Rice,1175,2023,11,Normal,1,2023-11
+Groceries,Oil,1124,2023,11,Normal,1,2023-11
+Groceries,Sweets,942,2023,11,Normal,1,2023-11
+Groceries,Soft Drinks,349,2023,11,Normal,1,2023-11
+Groceries,Ice Cream,302,2023,11,Normal,1,2023-11
+School & Stationery,Notebooks,338,2023,11,Normal,1,2023-11
+School & Stationery,School Bags,269,2023,11,Normal,1,2023-11
+School & Stationery,Stationery Kits,236,2023,11,Normal,1,2023-11
+Electronics,Air Conditioner,317,2023,12,Winter,0,2023-12
+Electronics,Air Cooler,240,2023,12,Winter,0,2023-12
+Electronics,Refrigerator,294,2023,12,Winter,0,2023-12
+Electronics,Heater,777,2023,12,Winter,0,2023-12
+Electronics,LED TV,605,2023,12,Winter,0,2023-12
+Electronics,Smartphone,731,2023,12,Winter,0,2023-12
+Electronics,Laptop,560,2023,12,Winter,0,2023-12
+Electronics,Tablet,441,2023,12,Winter,0,2023-12
+Home Appliances,Washing Machine,369,2023,12,Winter,0,2023-12
+Home Appliances,Microwave,303,2023,12,Winter,0,2023-12
+Clothing & Fashion,Raincoat,135,2023,12,Winter,0,2023-12
+Clothing & Fashion,Hoodie,698,2023,12,Winter,0,2023-12
+Clothing & Fashion,Sweatshirt,690,2023,12,Winter,0,2023-12
+Clothing & Fashion,Jeans,453,2023,12,Winter,0,2023-12
+Clothing & Fashion,Footwear,376,2023,12,Winter,0,2023-12
+Groceries,Rice,696,2023,12,Winter,0,2023-12
+Groceries,Oil,592,2023,12,Winter,0,2023-12
+Groceries,Sweets,547,2023,12,Winter,0,2023-12
+Groceries,Soft Drinks,342,2023,12,Winter,0,2023-12
+Groceries,Ice Cream,313,2023,12,Winter,0,2023-12
+School & Stationery,Notebooks,315,2023,12,Winter,0,2023-12
+School & Stationery,School Bags,273,2023,12,Winter,0,2023-12
+School & Stationery,Stationery Kits,240,2023,12,Winter,0,2023-12
+Electronics,Air Conditioner,342,2024,1,Winter,1,2024-01
+Electronics,Air Cooler,257,2024,1,Winter,1,2024-01
+Electronics,Refrigerator,302,2024,1,Winter,1,2024-01
+Electronics,Heater,800,2024,1,Winter,1,2024-01
+Electronics,LED TV,1602,2024,1,Winter,1,2024-01
+Electronics,Smartphone,2010,2024,1,Winter,1,2024-01
+Electronics,Laptop,1469,2024,1,Winter,1,2024-01
+Electronics,Tablet,1104,2024,1,Winter,1,2024-01
+Home Appliances,Washing Machine,945,2024,1,Winter,1,2024-01
+Home Appliances,Microwave,805,2024,1,Winter,1,2024-01
+Clothing & Fashion,Raincoat,145,2024,1,Winter,1,2024-01
+Clothing & Fashion,Hoodie,730,2024,1,Winter,1,2024-01
+Clothing & Fashion,Sweatshirt,768,2024,1,Winter,1,2024-01
+Clothing & Fashion,Jeans,469,2024,1,Winter,1,2024-01
+Clothing & Fashion,Footwear,395,2024,1,Winter,1,2024-01
+Groceries,Rice,1241,2024,1,Winter,1,2024-01
+Groceries,Oil,1134,2024,1,Winter,1,2024-01
+Groceries,Sweets,1017,2024,1,Winter,1,2024-01
+Groceries,Soft Drinks,346,2024,1,Winter,1,2024-01
+Groceries,Ice Cream,316,2024,1,Winter,1,2024-01
+School & Stationery,Notebooks,343,2024,1,Winter,1,2024-01
+School & Stationery,School Bags,289,2024,1,Winter,1,2024-01
+School & Stationery,Stationery Kits,259,2024,1,Winter,1,2024-01
+Electronics,Air Conditioner,352,2024,2,Normal,0,2024-02
+Electronics,Air Cooler,258,2024,2,Normal,0,2024-02
+Electronics,Refrigerator,296,2024,2,Normal,0,2024-02
+Electronics,Heater,179,2024,2,Normal,0,2024-02
+Electronics,LED TV,653,2024,2,Normal,0,2024-02
+Electronics,Smartphone,743,2024,2,Normal,0,2024-02
+Electronics,Laptop,570,2024,2,Normal,0,2024-02
+Electronics,Tablet,459,2024,2,Normal,0,2024-02
+Home Appliances,Washing Machine,379,2024,2,Normal,0,2024-02
+Home Appliances,Microwave,321,2024,2,Normal,0,2024-02
+Clothing & Fashion,Raincoat,142,2024,2,Normal,0,2024-02
+Clothing & Fashion,Hoodie,182,2024,2,Normal,0,2024-02
+Clothing & Fashion,Sweatshirt,193,2024,2,Normal,0,2024-02
+Clothing & Fashion,Jeans,462,2024,2,Normal,0,2024-02
+Clothing & Fashion,Footwear,382,2024,2,Normal,0,2024-02
+Groceries,Rice,682,2024,2,Normal,0,2024-02
+Groceries,Oil,655,2024,2,Normal,0,2024-02
+Groceries,Sweets,557,2024,2,Normal,0,2024-02
+Groceries,Soft Drinks,358,2024,2,Normal,0,2024-02
+Groceries,Ice Cream,318,2024,2,Normal,0,2024-02
+School & Stationery,Notebooks,352,2024,2,Normal,0,2024-02
+School & Stationery,School Bags,278,2024,2,Normal,0,2024-02
+School & Stationery,Stationery Kits,248,2024,2,Normal,0,2024-02
+Electronics,Air Conditioner,1462,2024,3,Summer,0,2024-03
+Electronics,Air Cooler,1094,2024,3,Summer,0,2024-03
+Electronics,Refrigerator,1211,2024,3,Summer,0,2024-03
+Electronics,Heater,181,2024,3,Summer,0,2024-03
+Electronics,LED TV,636,2024,3,Summer,0,2024-03
+Electronics,Smartphone,765,2024,3,Summer,0,2024-03
+Electronics,Laptop,558,2024,3,Summer,0,2024-03
+Electronics,Tablet,432,2024,3,Summer,0,2024-03
+Home Appliances,Washing Machine,390,2024,3,Summer,0,2024-03
+Home Appliances,Microwave,319,2024,3,Summer,0,2024-03
+Clothing & Fashion,Raincoat,141,2024,3,Summer,0,2024-03
+Clothing & Fashion,Hoodie,190,2024,3,Summer,0,2024-03
+Clothing & Fashion,Sweatshirt,200,2024,3,Summer,0,2024-03
+Clothing & Fashion,Jeans,455,2024,3,Summer,0,2024-03
+Clothing & Fashion,Footwear,721,2024,3,Summer,0,2024-03
+Groceries,Rice,689,2024,3,Summer,0,2024-03
+Groceries,Oil,651,2024,3,Summer,0,2024-03
+Groceries,Sweets,575,2024,3,Summer,0,2024-03
+Groceries,Soft Drinks,1545,2024,3,Summer,0,2024-03
+Groceries,Ice Cream,1302,2024,3,Summer,0,2024-03
+School & Stationery,Notebooks,328,2024,3,Summer,0,2024-03
+School & Stationery,School Bags,279,2024,3,Summer,0,2024-03
+School & Stationery,Stationery Kits,245,2024,3,Summer,0,2024-03
+Electronics,Air Conditioner,1391,2024,4,Summer,0,2024-04
+Electronics,Air Cooler,1099,2024,4,Summer,0,2024-04
+Electronics,Refrigerator,1217,2024,4,Summer,0,2024-04
+Electronics,Heater,174,2024,4,Summer,0,2024-04
+Electronics,LED TV,652,2024,4,Summer,0,2024-04
+Electronics,Smartphone,763,2024,4,Summer,0,2024-04
+Electronics,Laptop,587,2024,4,Summer,0,2024-04
+Electronics,Tablet,431,2024,4,Summer,0,2024-04
+Home Appliances,Washing Machine,383,2024,4,Summer,0,2024-04
+Home Appliances,Microwave,307,2024,4,Summer,0,2024-04
+Clothing & Fashion,Raincoat,137,2024,4,Summer,0,2024-04
+Clothing & Fashion,Hoodie,193,2024,4,Summer,0,2024-04
+Clothing & Fashion,Sweatshirt,190,2024,4,Summer,0,2024-04
+Clothing & Fashion,Jeans,469,2024,4,Summer,0,2024-04
+Clothing & Fashion,Footwear,710,2024,4,Summer,0,2024-04
+Groceries,Rice,701,2024,4,Summer,0,2024-04
+Groceries,Oil,659,2024,4,Summer,0,2024-04
+Groceries,Sweets,546,2024,4,Summer,0,2024-04
+Groceries,Soft Drinks,1510,2024,4,Summer,0,2024-04
+Groceries,Ice Cream,1399,2024,4,Summer,0,2024-04
+School & Stationery,Notebooks,342,2024,4,Summer,0,2024-04
+School & Stationery,School Bags,293,2024,4,Summer,0,2024-04
+School & Stationery,Stationery Kits,240,2024,4,Summer,0,2024-04
+Electronics,Air Conditioner,1410,2024,5,Summer,0,2024-05
+Electronics,Air Cooler,1044,2024,5,Summer,0,2024-05
+Electronics,Refrigerator,1265,2024,5,Summer,0,2024-05
+Electronics,Heater,184,2024,5,Summer,0,2024-05
+Electronics,LED TV,626,2024,5,Summer,0,2024-05
+Electronics,Smartphone,776,2024,5,Summer,0,2024-05
+Electronics,Laptop,561,2024,5,Summer,0,2024-05
+Electronics,Tablet,449,2024,5,Summer,0,2024-05
+Home Appliances,Washing Machine,382,2024,5,Summer,0,2024-05
+Home Appliances,Microwave,331,2024,5,Summer,0,2024-05
+Clothing & Fashion,Raincoat,143,2024,5,Summer,0,2024-05
+Clothing & Fashion,Hoodie,185,2024,5,Summer,0,2024-05
+Clothing & Fashion,Sweatshirt,189,2024,5,Summer,0,2024-05
+Clothing & Fashion,Jeans,455,2024,5,Summer,0,2024-05
+Clothing & Fashion,Footwear,699,2024,5,Summer,0,2024-05
+Groceries,Rice,695,2024,5,Summer,0,2024-05
+Groceries,Oil,656,2024,5,Summer,0,2024-05
+Groceries,Sweets,570,2024,5,Summer,0,2024-05
+Groceries,Soft Drinks,1493,2024,5,Summer,0,2024-05
+Groceries,Ice Cream,1307,2024,5,Summer,0,2024-05
+School & Stationery,Notebooks,350,2024,5,Summer,0,2024-05
+School & Stationery,School Bags,289,2024,5,Summer,0,2024-05
+School & Stationery,Stationery Kits,241,2024,5,Summer,0,2024-05
+Electronics,Air Conditioner,1443,2024,6,Summer,0,2024-06
+Electronics,Air Cooler,1068,2024,6,Summer,0,2024-06
+Electronics,Refrigerator,1200,2024,6,Summer,0,2024-06
+Electronics,Heater,176,2024,6,Summer,0,2024-06
+Electronics,LED TV,638,2024,6,Summer,0,2024-06
+Electronics,Smartphone,746,2024,6,Summer,0,2024-06
+Electronics,Laptop,595,2024,6,Summer,0,2024-06
+Electronics,Tablet,459,2024,6,Summer,0,2024-06
+Home Appliances,Washing Machine,388,2024,6,Summer,0,2024-06
+Home Appliances,Microwave,318,2024,6,Summer,0,2024-06
+Clothing & Fashion,Raincoat,140,2024,6,Summer,0,2024-06
+Clothing & Fashion,Hoodie,189,2024,6,Summer,0,2024-06
+Clothing & Fashion,Sweatshirt,196,2024,6,Summer,0,2024-06
+Clothing & Fashion,Jeans,452,2024,6,Summer,0,2024-06
+Clothing & Fashion,Footwear,716,2024,6,Summer,0,2024-06
+Groceries,Rice,727,2024,6,Summer,0,2024-06
+Groceries,Oil,636,2024,6,Summer,0,2024-06
+Groceries,Sweets,547,2024,6,Summer,0,2024-06
+Groceries,Soft Drinks,1525,2024,6,Summer,0,2024-06
+Groceries,Ice Cream,1316,2024,6,Summer,0,2024-06
+School & Stationery,Notebooks,919,2024,6,Summer,0,2024-06
+School & Stationery,School Bags,760,2024,6,Summer,0,2024-06
+School & Stationery,Stationery Kits,677,2024,6,Summer,0,2024-06
+Electronics,Air Conditioner,347,2024,7,Monsoon,0,2024-07
+Electronics,Air Cooler,255,2024,7,Monsoon,0,2024-07
+Electronics,Refrigerator,291,2024,7,Monsoon,0,2024-07
+Electronics,Heater,804,2024,7,Monsoon,0,2024-07
+Electronics,LED TV,658,2024,7,Monsoon,0,2024-07
+Electronics,Smartphone,789,2024,7,Monsoon,0,2024-07
+Electronics,Laptop,563,2024,7,Monsoon,0,2024-07
+Electronics,Tablet,445,2024,7,Monsoon,0,2024-07
+Home Appliances,Washing Machine,398,2024,7,Monsoon,0,2024-07
+Home Appliances,Microwave,326,2024,7,Monsoon,0,2024-07
+Clothing & Fashion,Raincoat,683,2024,7,Monsoon,0,2024-07
+Clothing & Fashion,Hoodie,180,2024,7,Monsoon,0,2024-07
+Clothing & Fashion,Sweatshirt,195,2024,7,Monsoon,0,2024-07
+Clothing & Fashion,Jeans,483,2024,7,Monsoon,0,2024-07
+Clothing & Fashion,Footwear,398,2024,7,Monsoon,0,2024-07
+Groceries,Rice,709,2024,7,Monsoon,0,2024-07
+Groceries,Oil,618,2024,7,Monsoon,0,2024-07
+Groceries,Sweets,575,2024,7,Monsoon,0,2024-07
+Groceries,Soft Drinks,367,2024,7,Monsoon,0,2024-07
+Groceries,Ice Cream,320,2024,7,Monsoon,0,2024-07
+School & Stationery,Notebooks,957,2024,7,Monsoon,0,2024-07
+School & Stationery,School Bags,810,2024,7,Monsoon,0,2024-07
+School & Stationery,Stationery Kits,670,2024,7,Monsoon,0,2024-07
+Electronics,Air Conditioner,341,2024,8,Monsoon,0,2024-08
+Electronics,Air Cooler,251,2024,8,Monsoon,0,2024-08
+Electronics,Refrigerator,305,2024,8,Monsoon,0,2024-08
+Electronics,Heater,785,2024,8,Monsoon,0,2024-08
+Electronics,LED TV,645,2024,8,Monsoon,0,2024-08
+Electronics,Smartphone,785,2024,8,Monsoon,0,2024-08
+Electronics,Laptop,570,2024,8,Monsoon,0,2024-08
+Electronics,Tablet,462,2024,8,Monsoon,0,2024-08
+Home Appliances,Washing Machine,384,2024,8,Monsoon,0,2024-08
+Home Appliances,Microwave,310,2024,8,Monsoon,0,2024-08
+Clothing & Fashion,Raincoat,721,2024,8,Monsoon,0,2024-08
+Clothing & Fashion,Hoodie,191,2024,8,Monsoon,0,2024-08
+Clothing & Fashion,Sweatshirt,193,2024,8,Monsoon,0,2024-08
+Clothing & Fashion,Jeans,481,2024,8,Monsoon,0,2024-08
+Clothing & Fashion,Footwear,410,2024,8,Monsoon,0,2024-08
+Groceries,Rice,697,2024,8,Monsoon,0,2024-08
+Groceries,Oil,663,2024,8,Monsoon,0,2024-08
+Groceries,Sweets,551,2024,8,Monsoon,0,2024-08
+Groceries,Soft Drinks,349,2024,8,Monsoon,0,2024-08
+Groceries,Ice Cream,315,2024,8,Monsoon,0,2024-08
+School & Stationery,Notebooks,351,2024,8,Monsoon,0,2024-08
+School & Stationery,School Bags,287,2024,8,Monsoon,0,2024-08
+School & Stationery,Stationery Kits,242,2024,8,Monsoon,0,2024-08
+Electronics,Air Conditioner,339,2024,9,Monsoon,0,2024-09
+Electronics,Air Cooler,257,2024,9,Monsoon,0,2024-09
+Electronics,Refrigerator,288,2024,9,Monsoon,0,2024-09
+Electronics,Heater,804,2024,9,Monsoon,0,2024-09
+Electronics,LED TV,654,2024,9,Monsoon,0,2024-09
+Electronics,Smartphone,767,2024,9,Monsoon,0,2024-09
+Electronics,Laptop,596,2024,9,Monsoon,0,2024-09
+Electronics,Tablet,444,2024,9,Monsoon,0,2024-09
+Home Appliances,Washing Machine,398,2024,9,Monsoon,0,2024-09
+Home Appliances,Microwave,323,2024,9,Monsoon,0,2024-09
+Clothing & Fashion,Raincoat,717,2024,9,Monsoon,0,2024-09
+Clothing & Fashion,Hoodie,182,2024,9,Monsoon,0,2024-09
+Clothing & Fashion,Sweatshirt,201,2024,9,Monsoon,0,2024-09
+Clothing & Fashion,Jeans,465,2024,9,Monsoon,0,2024-09
+Clothing & Fashion,Footwear,386,2024,9,Monsoon,0,2024-09
+Groceries,Rice,682,2024,9,Monsoon,0,2024-09
+Groceries,Oil,642,2024,9,Monsoon,0,2024-09
+Groceries,Sweets,569,2024,9,Monsoon,0,2024-09
+Groceries,Soft Drinks,364,2024,9,Monsoon,0,2024-09
+Groceries,Ice Cream,333,2024,9,Monsoon,0,2024-09
+School & Stationery,Notebooks,329,2024,9,Monsoon,0,2024-09
+School & Stationery,School Bags,289,2024,9,Monsoon,0,2024-09
+School & Stationery,Stationery Kits,243,2024,9,Monsoon,0,2024-09
+Electronics,Air Conditioner,350,2024,10,Normal,1,2024-10
+Electronics,Air Cooler,262,2024,10,Normal,1,2024-10
+Electronics,Refrigerator,299,2024,10,Normal,1,2024-10
+Electronics,Heater,180,2024,10,Normal,1,2024-10
+Electronics,LED TV,1608,2024,10,Normal,1,2024-10
+Electronics,Smartphone,1955,2024,10,Normal,1,2024-10
+Electronics,Laptop,1507,2024,10,Normal,1,2024-10
+Electronics,Tablet,1139,2024,10,Normal,1,2024-10
+Home Appliances,Washing Machine,968,2024,10,Normal,1,2024-10
+Home Appliances,Microwave,816,2024,10,Normal,1,2024-10
+Clothing & Fashion,Raincoat,145,2024,10,Normal,1,2024-10
+Clothing & Fashion,Hoodie,184,2024,10,Normal,1,2024-10
+Clothing & Fashion,Sweatshirt,190,2024,10,Normal,1,2024-10
+Clothing & Fashion,Jeans,476,2024,10,Normal,1,2024-10
+Clothing & Fashion,Footwear,407,2024,10,Normal,1,2024-10
+Groceries,Rice,1237,2024,10,Normal,1,2024-10
+Groceries,Oil,1126,2024,10,Normal,1,2024-10
+Groceries,Sweets,993,2024,10,Normal,1,2024-10
+Groceries,Soft Drinks,353,2024,10,Normal,1,2024-10
+Groceries,Ice Cream,322,2024,10,Normal,1,2024-10
+School & Stationery,Notebooks,347,2024,10,Normal,1,2024-10
+School & Stationery,School Bags,287,2024,10,Normal,1,2024-10
+School & Stationery,Stationery Kits,252,2024,10,Normal,1,2024-10
+Electronics,Air Conditioner,336,2024,11,Normal,1,2024-11
+Electronics,Air Cooler,262,2024,11,Normal,1,2024-11
+Electronics,Refrigerator,297,2024,11,Normal,1,2024-11
+Electronics,Heater,184,2024,11,Normal,1,2024-11
+Electronics,LED TV,1650,2024,11,Normal,1,2024-11
+Electronics,Smartphone,1901,2024,11,Normal,1,2024-11
+Electronics,Laptop,1490,2024,11,Normal,1,2024-11
+Electronics,Tablet,1127,2024,11,Normal,1,2024-11
+Home Appliances,Washing Machine,994,2024,11,Normal,1,2024-11
+Home Appliances,Microwave,788,2024,11,Normal,1,2024-11
+Clothing & Fashion,Raincoat,138,2024,11,Normal,1,2024-11
+Clothing & Fashion,Hoodie,192,2024,11,Normal,1,2024-11
+Clothing & Fashion,Sweatshirt,191,2024,11,Normal,1,2024-11
+Clothing & Fashion,Jeans,481,2024,11,Normal,1,2024-11
+Clothing & Fashion,Footwear,390,2024,11,Normal,1,2024-11
+Groceries,Rice,1292,2024,11,Normal,1,2024-11
+Groceries,Oil,1168,2024,11,Normal,1,2024-11
+Groceries,Sweets,1023,2024,11,Normal,1,2024-11
+Groceries,Soft Drinks,352,2024,11,Normal,1,2024-11
+Groceries,Ice Cream,316,2024,11,Normal,1,2024-11
+School & Stationery,Notebooks,328,2024,11,Normal,1,2024-11
+School & Stationery,School Bags,279,2024,11,Normal,1,2024-11
+School & Stationery,Stationery Kits,252,2024,11,Normal,1,2024-11
+Electronics,Air Conditioner,352,2024,12,Winter,0,2024-12
+Electronics,Air Cooler,263,2024,12,Winter,0,2024-12
+Electronics,Refrigerator,304,2024,12,Winter,0,2024-12
+Electronics,Heater,799,2024,12,Winter,0,2024-12
+Electronics,LED TV,647,2024,12,Winter,0,2024-12
+Electronics,Smartphone,752,2024,12,Winter,0,2024-12
+Electronics,Laptop,593,2024,12,Winter,0,2024-12
+Electronics,Tablet,453,2024,12,Winter,0,2024-12
+Home Appliances,Washing Machine,385,2024,12,Winter,0,2024-12
+Home Appliances,Microwave,309,2024,12,Winter,0,2024-12
+Clothing & Fashion,Raincoat,141,2024,12,Winter,0,2024-12
+Clothing & Fashion,Hoodie,716,2024,12,Winter,0,2024-12
+Clothing & Fashion,Sweatshirt,773,2024,12,Winter,0,2024-12
+Clothing & Fashion,Jeans,470,2024,12,Winter,0,2024-12
+Clothing & Fashion,Footwear,393,2024,12,Winter,0,2024-12
+Groceries,Rice,737,2024,12,Winter,0,2024-12
+Groceries,Oil,619,2024,12,Winter,0,2024-12
+Groceries,Sweets,564,2024,12,Winter,0,2024-12
+Groceries,Soft Drinks,344,2024,12,Winter,0,2024-12
+Groceries,Ice Cream,329,2024,12,Winter,0,2024-12
+School & Stationery,Notebooks,352,2024,12,Winter,0,2024-12
+School & Stationery,School Bags,279,2024,12,Winter,0,2024-12
+School & Stationery,Stationery Kits,257,2024,12,Winter,0,2024-12

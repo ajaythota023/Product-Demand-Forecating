@@ -1,0 +1,313 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+<title>Product Demand Forecasting</title>
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Segoe UI',sans-serif;
+}
+
+/* Background */
+
+body{
+
+background:url("{% static 'styles/home-bg.jpg' %}") no-repeat center center/cover;
+min-height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+color:white;
+
+}
+
+/* Overlay */
+
+.overlay{
+
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:rgba(0,0,0,0.55);
+
+}
+
+/* Main layout */
+
+.container{
+
+position:relative;
+z-index:2;
+width:900px;
+text-align:center;
+
+}
+
+/* Title */
+
+h1{
+
+font-size:38px;
+margin-bottom:200px;
+
+}
+
+/* Description */
+
+.description{
+
+font-size:16px;
+margin-bottom:20px;
+
+}
+
+/* Feature section */
+
+.features{
+
+display:flex;
+justify-content:center;
+gap:25px;
+margin-bottom:45px;
+
+}
+
+/* Feature boxes */
+
+.feature{
+
+width:300px;
+background:#1b6a7c;
+
+padding:18px;
+
+border-radius:10px;
+
+transition:0.3s;
+
+box-shadow:0 6px 16px rgba(0,0,0,0.35);
+
+}
+
+.feature:hover{
+
+transform:translateY(-5px);
+
+}
+
+/* Feature text */
+
+.feature h3{
+
+font-size:15px;
+margin-bottom:3px;
+
+}
+
+.feature p{
+
+font-size:12px;
+color:#e7f7ff;
+
+}
+
+/* Process title */
+
+.section-title{
+
+font-size:24px;
+margin:20px 0 30px 0;
+
+}
+
+/* Workflow */
+
+.workflow{
+
+display:flex;
+align-items:center;
+justify-content:center;
+gap:10px;
+margin-bottom:40px;
+
+}
+
+/* Step boxes */
+
+.step{
+
+background:#1b6a7c;
+
+padding:12px 14px;
+
+border-radius:8px;
+
+width:150px;
+
+transition:0.3s;
+
+}
+
+.step:hover{
+
+transform:translateY(-4px);
+
+}
+
+/* Step number */
+
+.step-number{
+
+width:26px;
+height:26px;
+
+background:white;
+color:#1b6a7c;
+
+border-radius:50%;
+
+display:flex;
+align-items:center;
+justify-content:center;
+
+margin:auto;
+margin-bottom:6px;
+
+font-size:12px;
+font-weight:bold;
+
+}
+
+/* Step text */
+
+.step p{
+
+font-size:12px;
+
+}
+
+/* Arrow */
+
+.arrow{
+
+font-size:22px;
+
+}
+
+/* Button */
+
+.start-btn{
+
+padding:12px 34px;
+
+font-size:16px;
+font-weight:bold;
+
+color:white;
+
+border:none;
+
+border-radius:8px;
+
+background:#00aaff;
+
+text-decoration:none;
+
+display:inline-block;
+
+box-shadow:0 0 10px rgba(0,114,255,0.7);
+
+transition:0.3s;
+
+}
+
+.start-btn:hover{
+
+transform:translateY(-3px);
+
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="overlay"></div>
+
+<div class="container">
+
+<h1>📊 Product Demand Forecasting System</h1>
+
+<p class="description">
+Predict future product demand using historical sales patterns,
+seasonal trends and product behaviour.
+</p>
+
+<!-- Feature boxes -->
+
+<div class="features">
+
+<div class="feature">
+<h3>📈 Smart Forecasting</h3>
+<p>Predict product demand based on historical sales data.</p>
+</div>
+
+<div class="feature">
+<h3>📅 Seasonal Analysis</h3>
+<p>Understand demand patterns across months and seasons.</p>
+</div>
+
+<div class="feature">
+<h3>⚡ Instant Prediction</h3>
+<p>Generate demand predictions quickly and efficiently.</p>
+</div>
+
+</div>
+
+<h2 class="section-title">⚙ Demand Prediction Process</h2>
+
+<div class="workflow">
+
+<div class="step">
+<div class="step-number">1</div>
+<p>Select Product Category</p>
+</div>
+
+<div class="arrow">→</div>
+
+<div class="step">
+<div class="step-number">2</div>
+<p>Select Product</p>
+</div>
+
+<div class="arrow">→</div>
+
+<div class="step">
+<div class="step-number">3</div>
+<p>Choose Year & Month</p>
+</div>
+
+<div class="arrow">→</div>
+
+<div class="step">
+<div class="step-number">4</div>
+<p>Generate Forecast</p>
+</div>
+
+</div>
+
+<a href="{% url 'predict_sales' %}" class="start-btn">
+🚀 Start Prediction
+</a>
+
+</div>
+
+</body>
+</html>

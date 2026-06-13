@@ -1,0 +1,285 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Peak Demand Month</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 35px;
+            box-shadow: 0 25px 70px rgba(0,0,0,0.35);
+        }
+
+        h2 {
+            text-align: center;
+            color: #222;
+            margin-bottom: 30px;
+            font-size: 26px;
+            font-weight: bold;
+        }
+
+        label {
+            display: block;
+            margin: 18px 0 8px;
+            color: #333;
+            font-weight: 700;
+            font-size: 16px;
+        }
+
+        select, input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        select:focus, input:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 10px rgba(102,126,234,0.3);
+        }
+
+        button {
+            width: 100%;
+            padding: 16px;
+            background: linear-gradient(135deg, #a78bfa 0%, #6c63ff 100%);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+            margin: 25px 0;
+            transition: all 0.3s ease;
+            letter-spacing: 1px;
+        }
+
+        button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px rgba(108,99,255,0.4);
+        }
+
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .category-selector {
+            background: #f8f9fa;
+            padding: 18px;
+            border-radius: 10px;
+            margin-bottom: 25px;
+            border-left: 5px solid #6c63ff;
+        }
+
+        .info-text {
+            color: #666;
+            font-size: 13px;
+            margin-top: 5px;
+        }
+
+        .result {
+            margin-top: 30px;
+            padding: 30px;
+            background: linear-gradient(135deg, #f0f4ff, #e8ecff);
+            border-radius: 15px;
+            text-align: center;
+            border-left: 5px solid #6c63ff;
+        }
+
+        .demand-badge {
+            display: inline-block;
+            padding: 12px 35px;
+            border-radius: 50px;
+            font-weight: bold;
+            font-size: 20px;
+            margin: 14px 0;
+            letter-spacing: 1px;
+        }
+
+        .demand-High { background: #28a745; color: white; }
+        .demand-Medium { background: #ffc107; color: #333; }
+        .demand-Low { background: #dc3545; color: white; }
+
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .back-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            color: #6c63ff;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 15px;
+        }
+
+        .back-link:hover { text-decoration: underline; }
+    </style>
+
+    <script>
+        const categoryProducts = {{ category_products|safe }};
+
+        function updateProducts() {
+            const category = document.getElementById('category_select').value;
+            const productSelect = document.getElementById('product');
+            productSelect.innerHTML = '<option value="">-- Select Product --</option>';
+
+            if (category && categoryProducts[category]) {
+                categoryProducts[category].forEach(p => {
+                    const opt = document.createElement('option');
+                    opt.value = p;
+                    opt.textContent = p;
+                    {% if selected_product %}
+                    if (p === "{{ selected_product }}") opt.selected = true;
+                    {% endif %}
+                    productSelect.appendChild(opt);
+                });
+                productSelect.disabled = false;
+                document.getElementById('submitBtn').disabled = false;
+            } else {
+                productSelect.disabled = true;
+                document.getElementById('submitBtn').disabled = true;
+            }
+        }
+
+        window.onload = function () {
+            {% if selected_category %}
+            updateProducts();
+            {% endif %}
+        };
+    </script>
+</head>
+
+<body>
+<div class="container">
+    <h2>📅 Peak Demand Month Finder</h2>
+
+    <!-- Category selector -->
+    <div class="category-selector">
+        <label for="category_select">Select Category</label>
+        <select id="category_select" onchange="updateProducts()">
+            <option value="">-- Select Category --</option>
+            {% for cat in categories %}
+            <option value="{{ cat }}" {% if cat == selected_category %}selected{% endif %}>
+                {{ cat }}
+            </option>
+            {% endfor %}
+        </select>
+    </div>
+
+    <!-- Main form -->
+    <form method="POST">
+        {% csrf_token %}
+        <input type="hidden" name="category" id="categoryHidden"
+               value="{{ selected_category|default:'' }}">
+
+        <script>
+            document.getElementById('category_select').addEventListener('change', function () {
+                document.getElementById('categoryHidden').value = this.value;
+            });
+        </script>
+
+        <label>Select Product</label>
+        <select name="product" id="product" required
+                {% if not selected_category %}disabled{% endif %}>
+            <option value="">-- Select Product --</option>
+        </select>
+
+        <label>Enter Year</label>
+        <input
+            type="number"
+            name="year"
+            placeholder="Enter year (e.g., 2026)"
+            min="2026"
+            max="2035"
+            value="{{ selected_year|default:'' }}"
+            required
+        >
+        <div class="info-text">Minimum allowed year is 2026</div>
+
+        <button type="submit" id="submitBtn"
+                {% if not selected_category %}disabled{% endif %}>
+            🔍 Find Peak Month
+        </button>
+    </form>
+
+    <!-- Error -->
+    {% if error_message %}
+    <div class="error">❌ {{ error_message }}</div>
+    {% endif %}
+
+    <!-- Result -->
+    {% if peak_month_name %}
+    <div class="result">
+        <h3 style="font-size:20px; font-weight:bold; margin-bottom:16px; color:#333;">
+            📊 Peak Demand Result for {{ selected_year }}
+        </h3>
+
+        <div style="font-size:36px; font-weight:900; color:#6c63ff; margin-bottom:10px;">
+            {{ peak_month_name }} {{ selected_year }}
+        </div>
+
+        <div class="demand-badge demand-{{ peak_demand_level }}">
+            {{ peak_demand_level }} DEMAND
+        </div>
+
+        <div style="font-size:16px; font-weight:bold; margin-top:16px; margin-bottom:6px;">
+            Demand Strength
+        </div>
+
+        <div style="font-size:38px; font-weight:900; color:#333;">
+            {% if peak_demand_level == "High" %}
+                > {{ peak_demand_percentage }}%
+            {% elif peak_demand_level == "Low" %}
+                < {{ peak_demand_percentage }}%
+            {% else %}
+                ≈ {{ peak_demand_percentage }}%
+            {% endif %}
+        </div>
+
+        <div style="margin-top:14px; background:#d8d8f0; border-radius:20px; height:18px; overflow:hidden;">
+            <div style="width:{{ peak_demand_percentage }}%; height:100%;
+                background: linear-gradient(90deg, #6c63ff, #a78bfa);
+                transition: width 0.5s ease;">
+            </div>
+        </div>
+
+        <div style="margin-top:10px; font-size:13px; color:#666;">
+            Highest forecasted demand across all 12 months of {{ selected_year }}
+        </div>
+
+        <div style="display:flex; justify-content:space-between; margin-top:20px;
+             padding-top:15px; border-top:1px solid #ccc; color:#555; font-size:14px;">
+            <span><strong>Product:</strong> {{ selected_product }}</span>
+            <span><strong>Year:</strong> {{ selected_year }}</span>
+        </div>
+    </div>
+    {% endif %}
+
+    <a class="back-link" href="{% url 'predict_sales' %}">← Back to Demand Predictor</a>
+</div>
+</body>
+</html>

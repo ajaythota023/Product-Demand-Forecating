@@ -1,0 +1,317 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sales Prediction</title>
+    <style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        padding: 20px;
+    }
+
+    .container {
+        max-width: 600px;
+        margin: 0 auto;
+        background: white;
+        border-radius: 20px;
+        padding: 35px;
+        box-shadow: 0 25px 70px rgba(0,0,0,0.35);
+    }
+
+    h2 {
+        text-align: center;
+        color: #222;
+        margin-bottom: 30px;
+        font-size: 28px;
+        font-weight: bold;
+        letter-spacing: 1px;
+    }
+
+    label {
+        display: block;
+        margin: 18px 0 8px;
+        color: #333;
+        font-weight: 700;
+        font-size: 17px;
+    }
+
+    select, input {
+        width: 100%;
+        padding: 12px;
+        border: 2px solid #e0e0e0;
+        border-radius: 10px;
+        font-size: 16px;
+        transition: all 0.3s ease;
+    }
+
+    select:focus, input:focus {
+        outline: none;
+        border-color: #667eea;
+        box-shadow: 0 0 10px rgba(102,126,234,0.3);
+    }
+
+    button {
+        width: 100%;
+        padding: 16px;
+        background: linear-gradient(135deg, #00c6ff 0%, #0072ff 100%);
+        color: white;
+        border: none;
+        border-radius: 12px;
+        font-size: 18px;
+        font-weight: bold;
+        cursor: pointer;
+        margin: 25px 0;
+        transition: all 0.3s ease;
+        letter-spacing: 1px;
+    }
+
+    button:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 10px 25px rgba(0,114,255,0.4);
+    }
+
+    button:active {
+        transform: scale(0.98);
+    }
+
+    button:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+        transform: none;
+    }
+
+    .result {
+        margin-top: 30px;
+        padding: 30px;
+        background: linear-gradient(135deg, #f5f7fa 0%, #dfe9f3 100%);
+        border-radius: 15px;
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .demand-badge {
+        display: inline-block;
+        padding: 12px 35px;
+        border-radius: 50px;
+        font-weight: bold;
+        font-size: 22px;
+        margin: 18px 0;
+        letter-spacing: 1px;
+    }
+
+    .demand-High {
+        background: #28a745;
+        color: white;
+    }
+
+    .demand-Medium {
+        background: #ffc107;
+        color: #333;
+    }
+
+    .demand-Low {
+        background: #dc3545;
+        color: white;
+    }
+
+    .detail-row {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+        padding-top: 15px;
+        border-top: 1px solid #ddd;
+        color: #555;
+        font-size: 15px;
+    }
+
+    .error {
+        background: #f8d7da;
+        color: #721c24;
+        padding: 15px;
+        border-radius: 8px;
+        margin-top: 20px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .category-selector {
+        background: #f8f9fa;
+        padding: 18px;
+        border-radius: 10px;
+        margin-bottom: 25px;
+        border-left: 5px solid #667eea;
+    }
+
+    .info-text {
+        color: #666;
+        font-size: 13px;
+        margin-top: 5px;
+    }
+
+    .nav-btn {
+        display: inline-block;
+        padding: 14px 30px;
+        background: linear-gradient(135deg, #a78bfa 0%, #6c63ff 100%);
+        color: white;
+        border-radius: 12px;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 16px;
+        letter-spacing: 1px;
+        transition: all 0.3s ease;
+    }
+
+    .nav-btn:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 10px 25px rgba(108,99,255,0.4);
+    }
+    </style>
+</head>
+
+<body>
+<div class="container">
+    <h2>📊 Product Demand Forecasting System</h2>
+
+    <!-- Category selection form -->
+    <div class="category-selector">
+        <form method="GET" id="categoryForm">
+            <label for="category_select">Select Category</label>
+            <select name="category" id="category_select" onchange="this.form.submit()">
+                <option value="">-- Select Category --</option>
+                {% for cat in categories %}
+                <option value="{{ cat }}" {% if cat == selected_category %}selected{% endif %}>
+                    {{ cat }}
+                </option>
+                {% endfor %}
+            </select>
+        </form>
+    </div>
+
+    <!-- Main prediction form -->
+    <form method="POST">
+        {% csrf_token %}
+
+        <input type="hidden" name="category" value="{{ selected_category|default:'' }}">
+
+        <label>Select Product</label>
+        <select name="product" id="product" required
+                {% if not selected_category %}disabled{% endif %}>
+            <option value="">-- Select Product --</option>
+            {% if selected_category %}
+                {% for cat, products in category_products.items %}
+                    {% if cat == selected_category %}
+                        {% for product in products %}
+                            <option value="{{ product }}"
+                                {% if product == selected_product %}selected{% endif %}>
+                                {{ product }}
+                            </option>
+                        {% endfor %}
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+        </select>
+        {% if not selected_category %}
+            <div class="info-text">Please select a category first</div>
+        {% endif %}
+
+        <label>Enter Year</label>
+        <input
+            type="number"
+            name="year"
+            placeholder="Enter year (e.g., 2026)"
+            min="2026"
+            max="2035"
+            value="{{ selected_year|default:'' }}"
+            required
+        >
+        <div class="info-text">Minimum allowed year is 2026</div>
+
+        <label>Select Month</label>
+        <select name="month" required>
+            <option value="">-- Select Month --</option>
+            {% for month in months %}
+                <option value="{{ month.num }}"
+                    {% if month.num == selected_month %}selected{% endif %}>
+                    {{ month.name }}
+                </option>
+            {% endfor %}
+        </select>
+
+        <button type="submit" {% if not selected_category %}disabled{% endif %}>
+            🔮 Predict Demand
+        </button>
+    </form>
+
+    <!-- Error Message -->
+    {% if error_message %}
+    <div class="error">
+        ❌ {{ error_message }}
+    </div>
+    {% endif %}
+
+    <!-- Result - Selected month only -->
+    {% if prediction %}
+    <div class="result">
+        <h3 style="font-size:22px; margin-bottom:20px; font-weight:bold;">
+            📈 Demand Forecast Result
+        </h3>
+
+        <div class="demand-badge demand-{{ demand_level }}">
+            {{ demand_level }} DEMAND
+        </div>
+
+        {% if demand_percentage %}
+        <div style="margin-top:20px;">
+            <div style="font-size:18px; font-weight:bold; margin-bottom:8px;">
+                Demand Strength
+            </div>
+
+            <div style="font-size:40px; font-weight:900; color:#333;">
+                {% if demand_level == "High" %}
+                    > {{ demand_percentage }}%
+                {% elif demand_level == "Low" %}
+                    < {{ demand_percentage }}%
+                {% else %}
+                    ≈ {{ demand_percentage }}%
+                {% endif %}
+            </div>
+
+            <div style="margin-top:15px; background:#e0e0e0; border-radius:20px;
+                        height:18px; overflow:hidden;">
+                <div style="width: {{ demand_percentage }}%; height:100%;
+                    background: linear-gradient(90deg,#00c853,#64dd17);
+                    transition: width 0.5s ease;">
+                </div>
+            </div>
+
+            <div style="margin-top:10px; font-size:14px; color:#666;">
+                Compared to historical peak demand in dataset
+            </div>
+        </div>
+        {% endif %}
+
+        <div class="detail-row">
+            <span><strong>Product:</strong> {{ selected_product }}</span>
+            <span><strong>Period:</strong> {{ selected_month }}/{{ selected_year }}</span>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Navigation to Peak Month Finder -->
+    <div style="text-align: center; margin-top: 25px;">
+        <a href="{% url 'peak_month' %}" class="nav-btn">
+            📅 Find Peak Demand Month
+        </a>
+    </div>
+
+</div>
+</body>
+</html>

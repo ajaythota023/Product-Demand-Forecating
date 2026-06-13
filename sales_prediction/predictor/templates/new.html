@@ -1,0 +1,118 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sales Prediction</title>
+    <link rel="stylesheet" href="{% static 'styles/style.css' %}">
+</head>
+
+<body>
+
+<div class="container">
+    <h2>Product Demand Forecasting System</h2>
+
+    <form method="POST">
+        {% csrf_token %}
+
+        <!-- Category -->
+        <label>Category</label>
+        <select name="category" id="category" onchange="updateProducts()">
+            {% for cat in categories %}
+            <option value="{{ cat }}"
+                {% if cat == selected_category %}selected{% endif %}>
+                {{ cat }}
+            </option>
+            {% endfor %}
+        </select>
+
+        <!-- Product -->
+        <label>Product Name</label>
+        <select name="product" id="product"></select>
+
+        <!-- Year -->
+        <label>Year</label>
+        <input type="number"
+               name="year"
+               min="2026"
+               value="{{ selected_year|default:'' }}"
+               required>
+
+        <!-- Month -->
+        <label>Month</label>
+        <select name="month">
+            {% for i in "123456789101112"|make_list %}
+            {% endfor %}
+            <option value="1" {% if selected_month == 1 %}selected{% endif %}>January</option>
+            <option value="2" {% if selected_month == 2 %}selected{% endif %}>February</option>
+            <option value="3" {% if selected_month == 3 %}selected{% endif %}>March</option>
+            <option value="4" {% if selected_month == 4 %}selected{% endif %}>April</option>
+            <option value="5" {% if selected_month == 5 %}selected{% endif %}>May</option>
+            <option value="6" {% if selected_month == 6 %}selected{% endif %}>June</option>
+            <option value="7" {% if selected_month == 7 %}selected{% endif %}>July</option>
+            <option value="8" {% if selected_month == 8 %}selected{% endif %}>August</option>
+            <option value="9" {% if selected_month == 9 %}selected{% endif %}>September</option>
+            <option value="10" {% if selected_month == 10 %}selected{% endif %}>October</option>
+            <option value="11" {% if selected_month == 11 %}selected{% endif %}>November</option>
+            <option value="12" {% if selected_month == 12 %}selected{% endif %}>December</option>
+        </select>
+
+        <button type="submit">Predict</button>
+    </form>
+
+    <!-- Result -->
+    {% if sales_percentage is not None %}
+    <div class="result">
+    {{ sales_percentage }}% sales in recent years
+    <br>
+    Demand Level: <strong>{{ demand_level }}</strong>
+    </div>
+    {% endif %}
+
+</div>
+
+<!-- Pass category-product mapping -->
+{{ category_products|json_script:"category-data" }}
+
+<script>
+    const categoryProducts = JSON.parse(
+        document.getElementById("category-data").textContent
+    );
+
+    function updateProducts(selectedProduct = null) {
+        const category = document.getElementById("category").value;
+        const productSelect = document.getElementById("product");
+
+        productSelect.innerHTML = "";
+
+        if (!categoryProducts[category]) return;
+
+        categoryProducts[category].forEach(product => {
+            const option = document.createElement("option");
+            option.value = product;
+            option.text = product;
+
+            if (selectedProduct && product === selectedProduct) {
+                option.selected = true;
+            }
+
+            productSelect.appendChild(option);
+        });
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+
+        const selectedProduct = "{{ selected_product|default:'' }}";
+        const selectedCategory = "{{ selected_category|default:'' }}";
+
+        const categorySelect = document.getElementById("category");
+
+        if (selectedCategory) {
+            categorySelect.value = selectedCategory;
+        }
+
+        updateProducts(selectedProduct);
+    });
+</script>
+
+</body>
+</html>

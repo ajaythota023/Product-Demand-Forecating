@@ -1,0 +1,258 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sales Prediction</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        h2 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+        }
+        
+        label {
+            display: block;
+            margin: 15px 0 5px;
+            color: #555;
+            font-weight: 500;
+        }
+        
+        select, input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+        
+        select:focus, input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        button {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            margin: 20px 0;
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+        }
+        
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .result {
+            margin-top: 30px;
+            padding: 25px;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            border-radius: 15px;
+            text-align: center;
+            font-size: 18px;
+        }
+        
+        .result strong {
+            color: #667eea;
+            font-size: 24px;
+        }
+        
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            text-align: center;
+        }
+        
+        .category-selector {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .info-text {
+            color: #666;
+            font-size: 14px;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+
+<body>
+<div class="container">
+    <h2>📊 Product Demand Forecasting System</h2>
+
+    <!-- Category selection form -->
+    <div class="category-selector">
+        <form method="GET" id="categoryForm">
+            <label for="category_select">Step 1: Select Category</label>
+            <select name="category" id="category_select" onchange="this.form.submit()">
+                <option value="">-- Select Category --</option>
+                {% for cat in categories %}
+                <option value="{{ cat }}" {% if cat == selected_category %}selected{% endif %}>
+                    {{ cat }}
+                </option>
+                {% endfor %}
+            </select>
+        </form>
+    </div>
+
+    <!-- Main prediction form -->
+    <form method="POST">
+        {% csrf_token %}
+        
+        <!-- Hidden field to pass selected category -->
+        <input type="hidden" name="category" value="{{ selected_category|default:'' }}">
+        
+        <label>Step 2: Select Product</label>
+        <select name="product" id="product" required {% if not selected_category %}disabled{% endif %}>
+            <option value="">-- Select Product --</option>
+            
+            <!-- Manual filtering of products based on selected category -->
+            {% if selected_category %}
+                {% for cat, products in category_products.items %}
+                    {% if cat == selected_category %}
+                        {% for product in products %}
+                            <option value="{{ product }}" {% if product == selected_product %}selected{% endif %}>
+                                {{ product }}
+                            </option>
+                        {% endfor %}
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+        </select>
+        {% if not selected_category %}
+            <div class="info-text">Please select a category first</div>
+        {% endif %}
+
+        <label>Step 3: Select Year</label>
+        <select name="year" required>
+            <option value="">-- Select Year --</option>
+            {% for year in years %}
+                <option value="{{ year }}" {% if year == selected_year %}selected{% endif %}>
+                    {{ year }}
+                </option>
+            {% endfor %}
+        </select>
+
+        <label>Step 4: Select Month</label>
+        <select name="month" required>
+            <option value="">-- Select Month --</option>
+            {% for month in months %}
+                <option value="{{ month.num }}" {% if month.num == selected_month %}selected{% endif %}>
+                    {{ month.name }}
+                </option>
+            {% endfor %}
+        </select>
+
+        <button type="submit" {% if not selected_category %}disabled{% endif %}>
+            🔮 Predict Demand
+        </button>
+    </form>
+
+    <!-- Error Message -->
+    {% if error_message %}
+    <div class="error">
+        ❌ {{ error_message }}
+    </div>
+    {% endif %}
+
+    <!-- Result -->
+    {% if sales_percentage is not None %}
+    <div class="result">
+        <h3>Prediction Result</h3>
+        <div style="font-size: 48px; font-weight: bold; color: #333; margin: 20px 0;">
+            {{ sales_percentage }}%
+        </div>
+        <div style="font-size: 18px; margin-bottom: 15px;">
+            of maximum sales
+        </div>
+        <div style="font-size: 24px;">
+            Demand Level: <strong style="color:
+                {% if demand_level == 'High' %}#dc3545
+                {% elif demand_level == 'Medium' %}#ffc107
+                {% else %}#28a745
+                {% endif %}">
+                {{ demand_level }}
+            </strong>
+        </div>
+        <div style="margin-top: 20px; color: #666;">
+            <p>Product: {{ selected_product }}</p>
+            <p>Period: {{ selected_month }}/{{ selected_year }}</p>
+            {% if prediction %}
+            <p>Predicted Sales: {{ prediction|floatformat:0 }} units</p>
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+
+    {% if prediction %}
+    <div class="result">
+        <h3>Prediction Result</h3>
+        
+        <!-- Exact Sales Value -->
+        <div class="sales-value">
+            {{ prediction|floatformat:0 }}
+        </div>
+        <div style="font-size: 18px; margin-bottom: 15px; color: #666;">
+            Predicted Sales (Units)
+        </div>
+        
+        <!-- Demand Level Badge -->
+        <div class="demand-badge demand-{{ demand_level }}">
+            {{ demand_level }} Demand
+        </div>
+        
+        <!-- Optional Percentage -->
+        {% if sales_percentage %}
+        <div style="margin-top: 15px; color: #666;">
+            {{ sales_percentage }}% of maximum sales
+        </div>
+        {% endif %}
+        
+        <!-- Product Details -->
+        <div class="detail-row">
+            <span><strong>Product:</strong> {{ selected_product }}</span>
+            <span><strong>Period:</strong> {{ selected_month }}/{{ selected_year }}</span>
+        </div>
+    </div>
+    {% endif %}
+</div>
+</body>
+</html>
